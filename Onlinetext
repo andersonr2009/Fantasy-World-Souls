@@ -7,22 +7,79 @@
 
 
 
-WARRIOR \localicon[465]
+
+1- WARRIOR \localicon[465]
 Bom em contra-atacar os inimigos com dano focada em físico.
 Apenas os Guerreiros podem usar Dual Wield(Equipar duas armas), e você pode encontrar em Nature Store.
 
-BLACK MAGE \localicon[501]
+2- BLACK MAGE \localicon[501]
 Especialista em magias de dano com vários elementos.
 
-VIRUS \localicon[1060]
+3- VIRUS \localicon[1060]
 Focado em usar debuffs and states negativos nos alvos.
 Importante investir Luck nessa classe, já que aumenta a chance de causar states e debuffs.
 
-Enhancer \localicon[1456]
+4- Enhancer \localicon[1456]
 Aumente seus atributos com esta classe especializada em melhorar o grupo.
 Agilidade é muito importante para esta classe.
 
-HEALER \localicon[1544]
-Inicia a batalha com Auto-Life(Ressuscita logo após morrer com imortalidade).
+5- HEALER \localicon[1544]
+Inicia a batalha com Auto-Life(Ressuscita logo após morrer).
 Outro ponto desta classe é o foco em curar HP, MP, TP E states negativos.
 Ela também carrega habilidades de ressurreição.
+
+6- SPECTRAL \localicon[5]
+Por natureza todas as classes possuem Target Rate em 100%, mas essa possui 20%.
+São seres espirituais, fantasmas, sendo assim, difíceis de serem alvos.
+Possuem foco em esquivas.
+
+7- INSECT \localicon[1787]
+Todos os equipamentos do tipo "nature" dão  a esta classe Action Times.
+
+8- VERDANT \localicon[2315]
+Seres da natureza, posseum foco em HP e regeneração.
+
+9- LANCER \localicon[2410]
+Foco em ataques físicos e possuem frequentes skills de perfuração.
+
+10- BARBARIAN \localicon[2402]
+Especializada em golpes críticos.
+Possui "Rage" por natureza.
+
+11- MARINE \localicon[1385]
+Criaturas aquáticas, das profundezas.
+Especialista em skill aquáticas.
+
+12- MACHINE \localicon[2010]
+Especializada em defesa e ataques elétricos.
+
+13- WINGED \localicon[3023]
+Possui por natureza magic evasion +10%.
+Seres rápidos tanto para evadir quando para agir.
+
+14- REPTILIAN \localicon[1900]
+Foco em camuflagem, poderoso contra states negativos.
+
+15- DEFENDER \localicon[496]
+Considerada uma das classes mais úteis.
+Esta classe possui Substitute(cover) por natureza, sendo assim tomando o
+dano dos aliados em si mesmo.
+Seus equipamentos por nature possuem Auto-Guard, que faz com que ele use
+o comando guard sozinho.
+
+16- ARCHER \localicon[470]
+O arqueiro é capaz de atacar várias vezes com muitos hits.
+Hit Rate combina muito bem com esta classe.
+
+17- GUNNER \localicon[1157]
+Com alta capacidade de vários hits com seus disparos, também
+é focado em ataques críticos.
+Esta Classe combina muito bem com Critical.
+
+18- DIVINE \localicon[1401]
+
+19- BEAST \localicon[14]
+Considerada uma das classes mais poderosas em ataque e críticos, conseguem
+mais disso tudo com equipamentos de nature.
+A maioria possui um Critícal mais alto por natureza.
+Também é considerada uma classe que possui Auto-Controle.
