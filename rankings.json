@@ -44,6 +44,11 @@
       "name": "test",
       "score": 0,
       "customText": "testagain"
+    },
+    {
+      "name": "chucky",
+      "score": 0,
+      "customText": "imthelegend"
     }
   ]
 }
