@@ -35,6 +35,11 @@
       "name": "Dogurod +5",
       "score": 4643,
       "customText": ""
+    },
+    {
+      "name": "test",
+      "score": 0,
+      "customText": "testagain"
     }
   ]
 }
