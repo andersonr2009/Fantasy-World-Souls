@@ -2,7 +2,8 @@
   "rankings": [
     {
       "name": "Reid",
-      "score": 93
+      "score": 93,
+      "customText": ""
     }
   ]
 }
