@@ -9,6 +9,11 @@
       "score": 15085
     },
     {
+      "name": "umaro",
+      "score": 3,
+      "customText": "imumaro2"
+    },
+    {
       "name": "Decin",
       "score": 0,
       "customText": "testando"
@@ -34,11 +39,6 @@
       "name": "shadow",
       "score": 0,
       "customText": "hiimshadow"
-    },
-    {
-      "name": "umaro",
-      "score": 0,
-      "customText": "imumaro"
     }
   ]
 }
