@@ -3,7 +3,8 @@
     {
       "name": "ElavosKing +25",
       "score": 559023,
-      "customText": "I am KING!!!"
+      "customText": "I am KING!!!",
+      "battler": "ELAVOS_battle1"
     },
     {
       "name": "C4eck +25",
