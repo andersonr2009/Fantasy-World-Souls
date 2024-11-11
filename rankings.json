@@ -74,7 +74,8 @@
     {
       "name": "SlayerMage +25",
       "score": 19955,
-      "customText": "#1  Healer"
+      "customText": "#1  Healer",
+      "battler": "Swallow Harpy"
     },
     {
       "name": "SlayerBlack +19",
