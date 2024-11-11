@@ -64,6 +64,11 @@
       "score": 21942
     },
     {
+      "name": "Decin",
+      "score": 20000,
+      "battler": "Actor1_1"
+    },
+    {
       "name": "SlayerMage +25",
       "score": 19955,
       "customText": "#1  Healer"
@@ -83,10 +88,6 @@
     {
       "name": "junhantan +6",
       "score": 15405
-    },
-    {
-      "name": "koh456x +13",
-      "score": 15174
     }
   ]
 }
