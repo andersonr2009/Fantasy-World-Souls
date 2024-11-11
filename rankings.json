@@ -70,6 +70,11 @@
       "score": 24515
     },
     {
+      "name": "Rarediel +25",
+      "score": 23801,
+      "battler": "lina"
+    },
+    {
       "name": "SEBlaze +25",
       "score": 22774
     },
@@ -98,12 +103,6 @@
     {
       "name": "cibien +25",
       "score": 17561
-    },
-    {
-      "name": "Neax +25",
-      "score": 17205,
-      "customText": "hello  guys",
-      "battler": "melissaneo"
     }
   ]
 }
