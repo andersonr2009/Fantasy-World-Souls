@@ -42,7 +42,8 @@
     {
       "name": "Ockraven +25",
       "score": 32176,
-      "customText": "Remember to thank Anderson!"
+      "customText": "Remember to thank Anderson!",
+      "battler": "demilichzorake"
     },
     {
       "name": "Dinivas +25",
