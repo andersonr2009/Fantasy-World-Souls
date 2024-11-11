@@ -1,6 +1,10 @@
 {
   "rankings": [
     {
+      "name": "ElavosKing +25",
+      "score": 559023
+    },
+    {
       "name": "C4eck +25",
       "score": 303731
     },
@@ -80,10 +84,6 @@
     {
       "name": "KingOrsk +9",
       "score": 5590
-    },
-    {
-      "name": "Merlin +12",
-      "score": 5366
     }
   ]
 }
