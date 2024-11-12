@@ -102,16 +102,16 @@
       "customText": "A  Empire  to  build,  A  Empire  to  burn."
     },
     {
+      "name": "SlayerMage +25",
+      "score": 20934,
+      "customText": "#1  Healer",
+      "battler": "Grune"
+    },
+    {
       "name": "Decin",
       "score": 20000,
       "battler": "throgarthebrute3",
       "customText": "será  que  ta  correto  agora?"
-    },
-    {
-      "name": "SlayerMage +25",
-      "score": 19955,
-      "customText": "#1  Healer",
-      "battler": "Swallow Harpy"
     }
   ]
 }
