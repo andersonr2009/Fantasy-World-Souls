@@ -7,6 +7,11 @@
       "battler": "ELAVOS_battle1"
     },
     {
+      "name": "!Barbatos Lupus Rex +25",
+      "score": 305387,
+      "battler": "c4eck2"
+    },
+    {
       "name": "C4eck +25",
       "score": 305232,
       "customText": "GundamGod",
@@ -106,11 +111,6 @@
       "score": 20934,
       "customText": "#1  Healer",
       "battler": "Grune"
-    },
-    {
-      "name": "SlayerBlack +19",
-      "score": 20215,
-      "battler": "Patch"
     }
   ]
 }
