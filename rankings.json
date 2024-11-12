@@ -81,6 +81,11 @@
       "battler": "lina"
     },
     {
+      "name": "Diabolic One",
+      "score": 23554,
+      "battler": "wingedimp"
+    },
+    {
       "name": "ronelly +21",
       "score": 22816,
       "battler": "Linette"
@@ -107,11 +112,6 @@
       "name": "SlayerBlack +19",
       "score": 19081,
       "battler": "Patch"
-    },
-    {
-      "name": "cibien +25",
-      "score": 17599,
-      "battler": "Stormcaster Cloud"
     }
   ]
 }
