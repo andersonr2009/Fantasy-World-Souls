@@ -59,7 +59,8 @@
     {
       "name": "Dinivas +25",
       "score": 31252,
-      "battler": "rarediel"
+      "battler": "rarediel",
+      "customText": ""
     },
     {
       "name": "DanteAngelo +25",
