@@ -21,7 +21,8 @@
     {
       "name": "SnakeEyedBlaze +25",
       "score": 153890,
-      "customText": "Forever, The  Snake  Lives."
+      "customText": "Forever, The  Snake  Lives.",
+      "battler": "SnakeEyesBlaze_battle1"
     },
     {
       "name": "haseov5 +25",
