@@ -1,6 +1,7 @@
 {
   "items": [
     {
+      "itemId": 1,
       "itemName": "Decin's Potionnoreugues",
       "itemValue": 0,
       "sellerID": "actor1",
