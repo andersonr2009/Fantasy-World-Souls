@@ -53,6 +53,11 @@
       "battler": "time element core/lancer"
     },
     {
+      "name": "Ouranos +25",
+      "score": 33316,
+      "battler": "ouranos"
+    },
+    {
       "name": "Ockraven +25",
       "score": 32882,
       "customText": "Remember to thank Anderson!",
@@ -107,11 +112,6 @@
       "score": 19955,
       "customText": "#1  Healer",
       "battler": "Swallow Harpy"
-    },
-    {
-      "name": "SlayerBlack +19",
-      "score": 19081,
-      "battler": "Patch"
     }
   ]
 }
