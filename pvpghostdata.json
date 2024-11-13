@@ -1,15 +1,15 @@
 [
   {
     "playerName": "Decin",
-    "variable350": 120,
+    "variable350": 0,
     "members": [
       {
         "id": 1,
         "name": "Decin",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "Actor1_1",
         "skills": [
           2,
@@ -28,9 +28,9 @@
         "id": 1,
         "name": "Dec",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "Actor1_1",
         "skills": [
           2,
@@ -40,7 +40,8 @@
           6
         ]
       }
-    ]
+    ],
+    "variable350": 0
   },
   {
     "playerName": "DecGf",
@@ -49,9 +50,9 @@
         "id": 1,
         "name": "DecGf",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "Actor1_1",
         "skills": [
           2,
@@ -65,9 +66,9 @@
         "id": 2,
         "name": "Decin 2",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "abissal fish3trench",
         "skills": [
           2,
@@ -81,9 +82,9 @@
         "id": 3,
         "name": "Decin 3",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "alex2",
         "skills": [
           2,
@@ -97,9 +98,9 @@
         "id": 4,
         "name": "Decin 4",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "aeryll",
         "skills": [
           2,
@@ -109,7 +110,8 @@
           6
         ]
       }
-    ]
+    ],
+    "variable350": 0
   },
   {
     "playerName": "RXjm",
@@ -118,9 +120,9 @@
         "id": 1,
         "name": "RXjm",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "Actor1_1",
         "skills": [
           2,
@@ -134,9 +136,9 @@
         "id": 2,
         "name": "Decin 2",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "abissal fish3trench",
         "skills": [
           2,
@@ -150,9 +152,9 @@
         "id": 3,
         "name": "Decin 3",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "alex2",
         "skills": [
           2,
@@ -166,9 +168,9 @@
         "id": 4,
         "name": "Decin 4",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "aeryll",
         "skills": [
           2,
@@ -178,7 +180,8 @@
           6
         ]
       }
-    ]
+    ],
+    "variable350": 0
   },
   {
     "playerName": "DecinQWEEE",
@@ -187,9 +190,9 @@
         "id": 1,
         "name": "DecinQWEEE",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "Actor1_1",
         "skills": [
           2,
@@ -199,7 +202,8 @@
           6
         ]
       }
-    ]
+    ],
+    "variable350": 0
   },
   {
     "playerName": "De",
@@ -208,9 +212,9 @@
         "id": 1,
         "name": "De",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "Actor1_1",
         "skills": [
           2,
@@ -220,7 +224,8 @@
           6
         ]
       }
-    ]
+    ],
+    "variable350": 0
   },
   {
     "playerName": "Deeek:'",
@@ -229,9 +234,9 @@
         "id": 1,
         "name": "Deeek:'",
         "maxHp": 544,
-        "hp": 544,
+        "hp": 0,
         "maxMp": 41,
-        "mp": 41,
+        "mp": 0,
         "battlerName": "Actor1_1",
         "skills": [
           2,
@@ -241,6 +246,7 @@
           6
         ]
       }
-    ]
+    ],
+    "variable350": 0
   }
 ]
