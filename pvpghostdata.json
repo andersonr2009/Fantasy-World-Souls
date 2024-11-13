@@ -10411,16 +10411,16 @@
       {
         "id": 1,
         "name": "ElavosKing +25",
-        "maxHp": 1662208,
-        "hp": 1662208,
+        "maxHp": 1048239,
+        "hp": 1048239,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 287173,
-        "def": 88121,
-        "matk": 138914,
-        "mdef": 305167,
-        "agi": 1311920,
-        "luk": 6174181,
+        "atk": 275530,
+        "def": 97912,
+        "matk": 680679,
+        "mdef": 442492,
+        "agi": 2775215,
+        "luk": 10000000,
         "battlerName": "ELAVOS_battle1",
         "skills": [
           6,
@@ -10478,54 +10478,64 @@
         ],
         "traits": [
           {
-            "code": 34,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 9,
-            "value": 0.1
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.12
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 0.9
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.11
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 0.79
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 3.7
-          },
-          {
             "code": 31,
             "dataId": 1,
             "value": 1
           },
           {
-            "code": 35,
-            "dataId": 933,
-            "value": 1
+            "code": 21,
+            "dataId": 2,
+            "value": 3.55
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 4.9
           },
           {
             "code": 21,
             "dataId": 6,
-            "value": 1.3
+            "value": 2.75
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 2.3
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.7
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.45
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.04
+          },
+          {
+            "code": 22,
+            "dataId": 5,
+            "value": 0.1
+          },
+          {
+            "code": 32,
+            "dataId": 6,
+            "value": 0.5
+          },
+          {
+            "code": 31,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 35,
+            "dataId": 1036,
+            "value": 1
           },
           {
             "code": 21,
@@ -10861,45 +10871,535 @@
         "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill:  380, 598, 680>\n<hitSound:/Monsters/male_hurt7-48124>\n"
       },
       {
-        "id": 407,
-        "name": "*Halloween Tree",
-        "maxHp": 2078,
-        "hp": 1928,
-        "maxMp": 401,
-        "mp": 371,
-        "atk": 53,
-        "def": 56,
-        "matk": 54,
-        "mdef": 55,
-        "agi": 107,
-        "luk": 105,
-        "battlerName": "treant",
-        "skills": [],
+        "id": 337,
+        "name": "*Metraela +25",
+        "maxHp": 91543,
+        "hp": 91543,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 28530,
+        "def": 9501,
+        "matk": 13764910,
+        "mdef": 35009,
+        "agi": 263848,
+        "luk": 51733,
+        "battlerName": "metraela",
+        "skills": [
+          726,
+          1126,
+          491
+        ],
         "traits": [
           {
-            "code": 23,
-            "dataId": 9,
-            "value": 1.2
+            "code": 31,
+            "dataId": 1,
+            "value": 0
           },
           {
-            "code": 23,
-            "dataId": 5,
-            "value": 1.2
+            "code": 31,
+            "dataId": 2,
+            "value": 0
           },
           {
-            "code": 23,
+            "code": 21,
+            "dataId": 4,
+            "value": 7.8
+          },
+          {
+            "code": 21,
             "dataId": 0,
             "value": 0.8
           },
           {
             "code": 23,
+            "dataId": 4,
+            "value": 0.8
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 14,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.1
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 3.85
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 0.6
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.45
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 2.72
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.4
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.4
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.2
+          },
+          {
+            "code": 14,
             "dataId": 9,
-            "value": 1.3
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 7,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 9,
+            "value": 0.1
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.3
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.5
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2.85
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.15
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 3
+          },
+          {
+            "code": 43,
+            "dataId": 491,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2.2
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 2.2
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.16
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.4
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.22
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2.55
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
           },
           {
             "code": 23,
-            "dataId": 9,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 12,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 0.4
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.3
+          }
+        ],
+        "classNotes": "<hitSound:/womanandinstruments/female-hurt-2-94301>\n<Learn Skill: 344, 368, 88, 427, 445, 521, 616, 1117, 1126, 726>\n<BGEScaleX:200>\n<BGEScaleY:200>\n<Battle Commands>\n Attack\n Skill: 281\n Skills\n Guard\n Item\n Party\n Escape\n</Battle Commands>"
+      },
+      {
+        "id": 292,
+        "name": "*Nightmare Wizard +25",
+        "maxHp": 103776,
+        "hp": 103776,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 21107,
+        "def": 6679,
+        "matk": 13610316,
+        "mdef": 25884,
+        "agi": 245911,
+        "luk": 63520,
+        "battlerName": "wizard3",
+        "skills": [
+          433,
+          536,
+          544,
+          685,
+          1106,
+          491
+        ],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 8
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.2
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.7
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 0.7
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 14,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
             "value": 1.1
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 3.7
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 0.6
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.45
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 2.72
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.4
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.4
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.2
+          },
+          {
+            "code": 14,
+            "dataId": 9,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 7,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 9,
+            "value": 0.1
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.3
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.5
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2.85
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.15
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 3
+          },
+          {
+            "code": 43,
+            "dataId": 491,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.25
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.65
+          },
+          {
+            "code": 22,
+            "dataId": 7,
+            "value": 0.18
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.8
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 0.65
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2.2
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 2.2
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.16
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.4
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.22
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2.55
           },
           {
             "code": 62,
@@ -10958,36 +11458,417 @@
           },
           {
             "code": 52,
-            "dataId": 21,
+            "dataId": 10,
             "value": 0
           },
           {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.3
+          }
+        ],
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 90, 429, 433, 444, 456, 471, 473, 445, 527, 536, 544, 560, 1106, 685>\n<hitSound:/Monsters/male_hurt7-48124>\n"
+      },
+      {
+        "id": 368,
+        "name": "*King Python",
+        "maxHp": 42389,
+        "hp": 42389,
+        "maxMp": 2243,
+        "mp": 2243,
+        "atk": 10555,
+        "def": 721,
+        "matk": 1431,
+        "mdef": 1569,
+        "agi": 2702,
+        "luk": 1629,
+        "battlerName": "kingpython",
+        "skills": [
+          1330
+        ],
+        "traits": [
+          {
+            "code": 53,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 4.66
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2.12
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.4
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.05
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 0.85
+          },
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 31,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.15
+          },
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.15
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.15
+          },
+          {
             "code": 23,
+            "dataId": 0,
+            "value": 0.5
+          },
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.08
+          },
+          {
+            "code": 22,
+            "dataId": 3,
+            "value": 0.08
+          },
+          {
+            "code": 22,
+            "dataId": 6,
+            "value": 0.1
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 2.5
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.95
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 2.55
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.45
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.45
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.2
+          },
+          {
+            "code": 14,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.2
+          },
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.2
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.15
+          },
+          {
+            "code": 21,
             "dataId": 2,
             "value": 1.3
           },
           {
-            "code": 11,
+            "code": 62,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 14,
             "dataId": 6,
-            "value": 0.5
+            "value": 1
           },
           {
-            "code": 11,
+            "code": 14,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 14,
             "dataId": 9,
-            "value": 0.5
+            "value": 1
           },
           {
-            "code": 11,
+            "code": 14,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 11,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 12,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 13,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.4
+          },
+          {
+            "code": 22,
+            "dataId": 3,
+            "value": 0.4
+          },
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.4
+          },
+          {
+            "code": 32,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 2
+          },
+          {
+            "code": 43,
+            "dataId": 1330,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.15
+          },
+          {
+            "code": 21,
             "dataId": 7,
-            "value": 0.5
+            "value": 1.65
+          },
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.2
           },
           {
             "code": 11,
+            "dataId": 8,
+            "value": 0.7
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.78
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.5
+          },
+          {
+            "code": 21,
             "dataId": 6,
             "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.5
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.16
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.4
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.22
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2.55
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 7,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.3
+          },
+          {
+            "code": 32,
+            "dataId": 91,
+            "value": 0.5
           }
         ],
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<StateOnBattleStart>\n<Learn Skill: 211, 237, 305, 312, 367, 405, 91, 430, 551, 454, 521, 522, 1185, 637, 1365>\n<hitSound:/new2/big-metal-knock-001-11345>"
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 23, 213, 60, 26, 362, 367, 373, 464, 469, 502, 1323, 1322>\n<hitSound:/Monsters/mixkit-tropical-bird-squeak-27>"
       }
     ]
   },
