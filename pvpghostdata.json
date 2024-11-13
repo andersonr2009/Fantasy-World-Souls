@@ -8252,8 +8252,8 @@
         "def": 9096,
         "matk": 233344,
         "mdef": 33815,
-        "agi": 689105,
-        "luk": 3642140,
+        "agi": 1205933,
+        "luk": 2124582,
         "battlerName": "voidevil",
         "skills": [
           515,
@@ -8261,7 +8261,6 @@
           1148,
           1149,
           1325,
-          553,
           1143
         ],
         "traits": [
@@ -8336,14 +8335,59 @@
             "value": 1
           },
           {
-            "code": 43,
-            "dataId": 553,
-            "value": 1
+            "code": 21,
+            "dataId": 7,
+            "value": 1.75
           },
           {
             "code": 21,
-            "dataId": 7,
-            "value": 3
+            "dataId": 6,
+            "value": 1.75
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 9,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 11,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 12,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 13,
+            "value": 1
           },
           {
             "code": 21,
