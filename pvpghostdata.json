@@ -707,21 +707,6 @@
         ],
         "traits": [
           {
-            "code": 64,
-            "dataId": 4,
-            "value": 1
-          },
-          {
-            "code": 64,
-            "dataId": 5,
-            "value": 1
-          },
-          {
-            "code": 64,
-            "dataId": 3,
-            "value": 1
-          },
-          {
             "code": 31,
             "dataId": 1,
             "value": 0
