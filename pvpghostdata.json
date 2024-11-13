@@ -1,4 +1,88 @@
-{
-    "playerName": "",
-    "members": []
-}
+[
+  {
+    "playerName": "Decin",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Decin",
+        "maxHp": 544,
+        "hp": 544,
+        "maxMp": 41,
+        "mp": 41,
+        "atk": 19,
+        "def": 17,
+        "matk": 15,
+        "mdef": 17,
+        "agi": 29,
+        "luk": 27,
+        "battlerName": "Actor1_1",
+        "skills": [
+          3
+        ],
+        "traits": [
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 3,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 5,
+            "value": 0
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          }
+        ]
+      }
+    ]
+  }
+]
