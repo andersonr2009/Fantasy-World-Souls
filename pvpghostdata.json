@@ -1,62 +1,14 @@
 {
-  "playerName": "Decin",
+  "playerName": "Sabin",
   "members": [
     {
       "id": 1,
-      "name": "Decin",
+      "name": "Sabin",
       "maxHp": 544,
       "hp": 544,
       "maxMp": 41,
       "mp": 41,
       "battlerName": "Actor1_1",
-      "skills": [
-        2,
-        3,
-        4,
-        5,
-        6
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Decin 2",
-      "maxHp": 544,
-      "hp": 544,
-      "maxMp": 41,
-      "mp": 41,
-      "battlerName": "abissal fish3trench",
-      "skills": [
-        2,
-        3,
-        4,
-        5,
-        6
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Decin 3",
-      "maxHp": 544,
-      "hp": 544,
-      "maxMp": 41,
-      "mp": 41,
-      "battlerName": "alex2",
-      "skills": [
-        2,
-        3,
-        4,
-        5,
-        6
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Decin 4",
-      "maxHp": 544,
-      "hp": 544,
-      "maxMp": 41,
-      "mp": 41,
-      "battlerName": "aeryll",
       "skills": [
         2,
         3,
