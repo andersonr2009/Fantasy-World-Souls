@@ -1173,11 +1173,11 @@
         "hp": 1768904,
         "maxMp": 3000,
         "mp": 2745,
-        "atk": 50369,
+        "atk": 33579,
         "def": 21504,
-        "matk": 14070534,
+        "matk": 9380356,
         "mdef": 369057,
-        "agi": 338919,
+        "agi": 1016756,
         "luk": 217802,
         "battlerName": "demilichzorake",
         "skills": [
@@ -1401,13 +1401,18 @@
           },
           {
             "code": 21,
-            "dataId": 2,
-            "value": 1.5
+            "dataId": 6,
+            "value": 3
           },
           {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.5
+            "code": 22,
+            "dataId": 7,
+            "value": 0.15
+          },
+          {
+            "code": 22,
+            "dataId": 9,
+            "value": 0.15
           },
           {
             "code": 21,
