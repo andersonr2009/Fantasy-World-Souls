@@ -454,27 +454,155 @@
         "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 584, 641, 651>\n<hitSound:/new2/golpe-de-olla-79857>\n\n\n"
       },
       {
-        "id": 5,
-        "name": "Bullfrog +25",
-        "maxHp": 416022,
-        "hp": 416022,
+        "id": 167,
+        "name": "Gigas +20",
+        "maxHp": 1201809,
+        "hp": 1201809,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 642,
-        "def": 612,
-        "matk": 9156,
-        "mdef": 654,
-        "agi": 18204,
-        "luk": 9648,
-        "battlerName": "bullfrog",
+        "atk": 25440,
+        "def": 99403,
+        "matk": 7990,
+        "mdef": 103538,
+        "agi": 20619,
+        "luk": 15981,
+        "battlerName": "mecha",
         "skills": [
-          69,
-          71,
-          74,
-          301,
-          402
+          10,
+          88,
+          331,
+          446,
+          531,
+          534,
+          537,
+          1133
         ],
         "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.35
+          },
+          {
+            "code": 34,
+            "dataId": 0,
+            "value": 2
+          },
+          {
+            "code": 22,
+            "dataId": 3,
+            "value": -0.3
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 3.2
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 0.7
+          },
+          {
+            "code": 31,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 3.12
+          },
+          {
+            "code": 54,
+            "dataId": 9,
+            "value": 1
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 0.6
+          },
+          {
+            "code": 22,
+            "dataId": 3,
+            "value": 0.09
+          },
+          {
+            "code": 23,
+            "dataId": 6,
+            "value": 0.8
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 3.26
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 0.52
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 0.6
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": -0.1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 4
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 4
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 2.5
+          },
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 43,
+            "dataId": 1133,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.4
+          },
+          {
+            "code": 22,
+            "dataId": 3,
+            "value": 0.1
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.5
+          },
           {
             "code": 62,
             "dataId": 3,
@@ -483,7 +611,7 @@
           {
             "code": 23,
             "dataId": 0,
-            "value": 1
+            "value": 1.2
           },
           {
             "code": 22,
@@ -506,6 +634,11 @@
             "value": 0
           },
           {
+            "code": 51,
+            "dataId": 9,
+            "value": 0
+          },
+          {
             "code": 41,
             "dataId": 2,
             "value": 1
@@ -516,8 +649,211 @@
             "value": 1
           },
           {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 17,
+            "value": 0
+          },
+          {
+            "code": 23,
+            "dataId": 1,
+            "value": 1.25
+          },
+          {
+            "code": 62,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 6,
+            "value": 0.9
+          },
+          {
+            "code": 23,
+            "dataId": 7,
+            "value": 0.9
+          }
+        ],
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 10, 331, 329, 323, 326, 319, 360, 88, 427, 454, 446, 524, 455, 526, 529, 537, 530, 534, 531>\n<hitSound:/new2/golpe-de-olla-79857>\n\n"
+      },
+      {
+        "id": 267,
+        "name": "*Deathlord +8",
+        "maxHp": 237577,
+        "hp": 237577,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 44289,
+        "def": 3465,
+        "matk": 3450,
+        "mdef": 3463,
+        "agi": 7086,
+        "luk": 9989,
+        "battlerName": "sei",
+        "skills": [
+          30,
+          64,
+          310,
+          375,
+          579,
+          631,
+          665,
+          57
+        ],
+        "traits": [
+          {
+            "code": 64,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 64,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 64,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 54,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 4.2
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 0.7
+          },
+          {
+            "code": 22,
+            "dataId": 6,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 7,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 9,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.09
+          },
+          {
+            "code": 23,
+            "dataId": 7,
+            "value": 0.8
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.3
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 3
+          },
+          {
+            "code": 22,
+            "dataId": 6,
+            "value": 0.25
+          },
+          {
+            "code": 43,
+            "dataId": 57,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 7,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 3,
+            "value": 0.1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
             "code": 51,
             "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
             "value": 1
           },
           {
@@ -527,31 +863,31 @@
           },
           {
             "code": 52,
-            "dataId": 7,
+            "dataId": 15,
             "value": 0
           },
           {
             "code": 11,
-            "dataId": 5,
-            "value": 0.6
+            "dataId": 9,
+            "value": 0.4
           },
           {
             "code": 11,
-            "dataId": 4,
-            "value": 1.3
+            "dataId": 8,
+            "value": 2
           },
           {
             "code": 22,
-            "dataId": 1,
-            "value": 0.1
+            "dataId": 6,
+            "value": 0.15
           },
           {
-            "code": 32,
-            "dataId": 91,
-            "value": 0.5
+            "code": 51,
+            "dataId": 10,
+            "value": 1
           }
         ],
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 69, 71, 74, 301, 402>\n<hitSound:/Monsters/frog_03-97936>"
+        "classNotes": "<hitSound:/new2/big-metal-knock-001-11345>\n<Learn Skill: 30, 64, 84, 310, 375, 423, 483, 568, 364, 543, 579, 583, 584, 631, 665>\n<BGEScaleX:200>\n<BGEScaleY:200>"
       },
       {
         "id": 6,
@@ -838,147 +1174,6 @@
           }
         ],
         "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 235, 232, 237, 305, 19, 23, 26, 30, 20>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>"
-      },
-      {
-        "id": 367,
-        "name": "*Ship Eater",
-        "maxHp": 8295,
-        "hp": 8295,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 259,
-        "def": 302,
-        "matk": 888,
-        "mdef": 239,
-        "agi": 446,
-        "luk": 563,
-        "battlerName": "shipeater",
-        "skills": [
-          321
-        ],
-        "traits": [
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 1.3
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2.8
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.7
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 0.7
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 0.8
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.8
-          },
-          {
-            "code": 22,
-            "dataId": 6,
-            "value": 0.05
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.95
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.04
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 22,
-            "value": 0
-          },
-          {
-            "code": 11,
-            "dataId": 5,
-            "value": 0.75
-          },
-          {
-            "code": 11,
-            "dataId": 3,
-            "value": 0.75
-          },
-          {
-            "code": 11,
-            "dataId": 4,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.3
-          }
-        ],
-        "classNotes": "<hitSound:/Monsters/078599_monster-82504>\n<Learn Skill: 31, 112, 123, 196, 233, 321, 347, 438, 457, 545, 1324, 1321>\n<BGEScaleX:200>\n<BGEScaleY:200>"
       }
     ]
   },
