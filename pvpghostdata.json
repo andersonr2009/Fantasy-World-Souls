@@ -1,4 +1,30 @@
-{
-    "playerName": "",
-    "members": []
-}
+[
+  {
+    "playerName": "Decin",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Decin",
+        "maxHp": 544,
+        "hp": 544,
+        "maxMp": 41,
+        "mp": 41,
+        "atk": 19,
+        "def": 17,
+        "mat": 15,
+        "mdf": 17,
+        "agi": 29,
+        "luk": 27,
+        "battlerName": "Actor1_1",
+        "skills": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      }
+    ]
+  }
+]
