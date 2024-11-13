@@ -2967,9 +2967,9 @@
         "id": 1,
         "name": "C4eck +25",
         "maxHp": 736263,
-        "hp": 736263,
+        "hp": 1,
         "maxMp": 3000,
-        "mp": 3000,
+        "mp": 2760,
         "atk": 271990,
         "def": 140544,
         "matk": 20000000,
@@ -3460,7 +3460,7 @@
         "matk": 49833,
         "mdef": 64233,
         "agi": 406268,
-        "luk": 74245,
+        "luk": 103942,
         "battlerName": "c4eck2",
         "skills": [
           80,
@@ -3471,6 +3471,11 @@
           1133
         ],
         "traits": [
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.4
+          },
           {
             "code": 64,
             "dataId": 4,
@@ -3915,13 +3920,13 @@
         "maxHp": 1363679,
         "hp": 1363679,
         "maxMp": 3000,
-        "mp": 3000,
+        "mp": 1860,
         "atk": 33675,
         "def": 114178,
         "matk": 60805,
         "mdef": 80086,
         "agi": 521909,
-        "luk": 142876,
+        "luk": 200027,
         "battlerName": "virtue2",
         "skills": [
           718,
@@ -3929,6 +3934,11 @@
           490
         ],
         "traits": [
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.4
+          },
           {
             "code": 64,
             "dataId": 4,
@@ -4396,15 +4406,15 @@
         "id": 305,
         "name": "Vermillion +25",
         "maxHp": 6000000,
-        "hp": 6000000,
+        "hp": 5808758,
         "maxMp": 3000,
-        "mp": 3000,
+        "mp": 2660,
         "atk": 602802,
         "def": 10000000,
         "matk": 218319,
         "mdef": 9346776,
         "agi": 279990,
-        "luk": 888963,
+        "luk": 1244548,
         "battlerName": "emerald dragon2",
         "skills": [
           544,
@@ -4414,6 +4424,11 @@
           1150
         ],
         "traits": [
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.4
+          },
           {
             "code": 64,
             "dataId": 4,
