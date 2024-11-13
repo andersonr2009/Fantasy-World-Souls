@@ -5940,16 +5940,15 @@
         "hp": 1952416,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 48088,
-        "def": 129301,
-        "matk": 2239600,
-        "mdef": 56047,
+        "atk": 108198,
+        "def": 86201,
+        "matk": 559900,
+        "mdef": 55892,
         "agi": 161528,
         "luk": 93116,
         "battlerName": "white snake2",
         "skills": [
           504,
-          93,
           491
         ],
         "traits": [
@@ -6045,73 +6044,28 @@
           },
           {
             "code": 21,
-            "dataId": 4,
-            "value": 4
+            "dataId": 2,
+            "value": 2.25
           },
           {
-            "code": 23,
-            "dataId": 4,
-            "value": 0.8
-          },
-          {
-            "code": 43,
-            "dataId": 93,
-            "value": 1
+            "code": 21,
+            "dataId": 5,
+            "value": 1.5
           },
           {
             "code": 22,
-            "dataId": 4,
-            "value": 0.12
-          },
-          {
-            "code": 11,
-            "dataId": 2,
-            "value": 0.7
-          },
-          {
-            "code": 11,
             "dataId": 3,
-            "value": 0.7
+            "value": 0.25
           },
           {
-            "code": 11,
-            "dataId": 4,
-            "value": 0.7
+            "code": 23,
+            "dataId": 0,
+            "value": 1.25
           },
           {
-            "code": 11,
-            "dataId": 5,
-            "value": 0.7
-          },
-          {
-            "code": 11,
-            "dataId": 6,
-            "value": 0.7
-          },
-          {
-            "code": 11,
-            "dataId": 7,
-            "value": 0.7
-          },
-          {
-            "code": 11,
-            "dataId": 8,
-            "value": 0.7
-          },
-          {
-            "code": 11,
-            "dataId": 9,
-            "value": 0.7
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.5
+            "code": 34,
+            "dataId": 0,
+            "value": 2
           },
           {
             "code": 21,
