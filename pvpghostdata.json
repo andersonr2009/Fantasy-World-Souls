@@ -6434,26 +6434,22 @@
       {
         "id": 241,
         "name": "Soldier Ranger +25",
-        "maxHp": 4394295,
-        "hp": 0,
+        "maxHp": 6000000,
+        "hp": 6000000,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 4281261,
-        "def": 375722,
-        "matk": 28422,
-        "mdef": 17376,
-        "agi": 1061554,
-        "luk": 180023,
+        "atk": 6564600,
+        "def": 576107,
+        "matk": 43580,
+        "mdef": 26685,
+        "agi": 1627716,
+        "luk": 276034,
         "battlerName": "gunner",
         "skills": [
-          419
+          419,
+          561
         ],
         "traits": [
-          {
-            "code": 23,
-            "dataId": 9,
-            "value": 0
-          },
           {
             "code": 21,
             "dataId": 2,
@@ -6585,49 +6581,64 @@
             "value": 0.12
           },
           {
-            "code": 62,
+            "code": 22,
             "dataId": 0,
+            "value": 0.15
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.15
+          },
+          {
+            "code": 22,
+            "dataId": 9,
+            "value": 0.15
+          },
+          {
+            "code": 43,
+            "dataId": 561,
             "value": 1
           },
           {
             "code": 21,
             "dataId": 0,
-            "value": 1.5
+            "value": 2.3
           },
           {
             "code": 21,
             "dataId": 1,
-            "value": 1.5
+            "value": 2.3
           },
           {
             "code": 21,
             "dataId": 2,
-            "value": 1.5
+            "value": 2.3
           },
           {
             "code": 21,
             "dataId": 3,
-            "value": 1.5
+            "value": 2.3
           },
           {
             "code": 21,
             "dataId": 4,
-            "value": 1.5
+            "value": 2.3
           },
           {
             "code": 21,
             "dataId": 5,
-            "value": 1.5
+            "value": 2.3
           },
           {
             "code": 21,
             "dataId": 6,
-            "value": 1.5
+            "value": 2.3
           },
           {
             "code": 21,
             "dataId": 7,
-            "value": 1.5
+            "value": 2.3
           },
           {
             "code": 34,
