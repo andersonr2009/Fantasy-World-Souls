@@ -6435,7 +6435,7 @@
         "id": 241,
         "name": "Soldier Ranger +25",
         "maxHp": 4394295,
-        "hp": 4394295,
+        "hp": 0,
         "maxMp": 3000,
         "mp": 3000,
         "atk": 4281261,
@@ -6449,6 +6449,11 @@
           419
         ],
         "traits": [
+          {
+            "code": 23,
+            "dataId": 9,
+            "value": 0
+          },
           {
             "code": 21,
             "dataId": 2,
