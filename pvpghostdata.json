@@ -10,12 +10,6 @@
         "hp": 544,
         "maxMp": 41,
         "mp": 41,
-        "atkFisico": 19,
-        "defFisica": 17,
-        "atkMagico": 15,
-        "defMagica": 17,
-        "agilidade": 29,
-        "luck": 27,
         "battlerName": "Actor1_1",
         "skills": [
           2,
