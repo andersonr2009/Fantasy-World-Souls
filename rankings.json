@@ -24,6 +24,11 @@
       "battler": "eigengrau"
     },
     {
+      "name": "safique +25",
+      "score": 154447,
+      "battler": "aya"
+    },
+    {
       "name": "SnakeEyedBlaze +25",
       "score": 153890,
       "customText": "Forever, The  Snake  Lives.",
@@ -105,12 +110,6 @@
       "name": "ronelly +21",
       "score": 22816,
       "battler": "Linette"
-    },
-    {
-      "name": "SEBlaze +25",
-      "score": 22774,
-      "battler": "time element core/magewithsword",
-      "customText": "A  Empire  to  build,  A  Empire  to  burn."
     }
   ]
 }
