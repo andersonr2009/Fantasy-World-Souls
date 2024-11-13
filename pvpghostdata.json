@@ -90,5 +90,65 @@
         "classNotes": ""
       }
     ]
+  },
+  {
+    "playerName": "",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "",
+        "maxHp": 5350,
+        "hp": 5350,
+        "maxMp": 1070,
+        "mp": 1070,
+        "atk": 138,
+        "def": 138,
+        "matk": 138,
+        "mdef": 138,
+        "agi": 277,
+        "luk": 277,
+        "battlerName": "lunaneotrue",
+        "skills": [],
+        "traits": [
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          }
+        ],
+        "classNotes": ""
+      }
+    ]
   }
 ]
