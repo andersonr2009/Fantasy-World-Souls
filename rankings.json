@@ -91,6 +91,12 @@
       "battler": "lina"
     },
     {
+      "name": "ronelly +23",
+      "score": 23631,
+      "customText": "The  Best  Master  Sorcerer  Tibia",
+      "battler": "Sterling"
+    },
+    {
       "name": "Diabolic One",
       "score": 23554,
       "battler": "wingedimp"
@@ -105,12 +111,6 @@
       "score": 22774,
       "battler": "time element core/magewithsword",
       "customText": "A  Empire  to  build,  A  Empire  to  burn."
-    },
-    {
-      "name": "SlayerMage +25",
-      "score": 20934,
-      "customText": "#1  Healer",
-      "battler": "Grune"
     }
   ]
 }
