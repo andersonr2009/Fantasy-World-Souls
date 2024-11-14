@@ -89,7 +89,7 @@
           },
           {
             "code": 62,
-            "dataId": 3,
+            "dataId": 0,
             "value": 1
           },
           {
@@ -129,7 +129,7 @@
           },
           {
             "code": 62,
-            "dataId": 3,
+            "dataId": 0,
             "value": 1
           }
         ],
@@ -137,7 +137,7 @@
           "substitute": false,
           "autoGuard": false,
           "actionTimes": [],
-          "autoBattle": true,
+          "autoBattle": false,
           "attackTimes": [],
           "attackSkill": 1,
           "attackState": [],
