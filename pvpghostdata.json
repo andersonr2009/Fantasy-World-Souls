@@ -10,12 +10,12 @@
         "hp": 3820345,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 4629268,
+        "atk": 1851707,
         "def": 250727,
         "matk": 33054,
         "mdef": 25201,
-        "agi": 172365,
-        "luk": 54996,
+        "agi": 301639,
+        "luk": 96243,
         "battlerName": "eigengrau",
         "classNotes": "<hitSound:/Monsters/male_hurt7-48124>\n<Learn Skill: 1135, 1136, 1307>\n<BGEScaleX:200>\n<BGEScaleY:200>",
         "skills": [
@@ -149,29 +149,59 @@
             "value": 0.5
           },
           {
-            "code": 23,
-            "dataId": 0,
-            "value": 0.5
-          },
-          {
-            "code": 22,
-            "dataId": 4,
-            "value": 0.08
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": 0.08
-          },
-          {
-            "code": 22,
-            "dataId": 6,
-            "value": 0.1
+            "code": 21,
+            "dataId": 7,
+            "value": 1.75
           },
           {
             "code": 21,
-            "dataId": 2,
-            "value": 2.5
+            "dataId": 6,
+            "value": 1.75
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 9,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 11,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 12,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 13,
+            "value": 1
           },
           {
             "code": 21,
