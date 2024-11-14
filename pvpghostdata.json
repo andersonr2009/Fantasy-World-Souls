@@ -1,13 +1,13 @@
 [
   {
     "playerName": "Decin",
-    "variable350": 60,
+    "variable350": 0,
     "members": [
       {
         "id": 1,
         "name": "Decin",
-        "maxHp": 400,
-        "hp": 400,
+        "maxHp": 300,
+        "hp": 300,
         "maxMp": 41,
         "mp": 41,
         "atk": 19,
