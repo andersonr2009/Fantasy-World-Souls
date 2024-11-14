@@ -25,8 +25,14 @@
         "specialFlags": {
           "substitute": false,
           "autoGuard": false,
+          "actionTimes": [],
           "autoBattle": false,
-          "preserveTp": false
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
+          ]
         }
       },
       {
@@ -129,9 +135,15 @@
         ],
         "specialFlags": {
           "substitute": false,
-          "autoGuard": false,
+          "autoGuard": true,
+          "actionTimes": [],
           "autoBattle": false,
-          "preserveTp": false
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
+          ]
         }
       }
     ]
