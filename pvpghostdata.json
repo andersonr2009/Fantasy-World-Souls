@@ -18815,10 +18815,10 @@
         "hp": 3408701,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 1598696,
+        "atk": 3597066,
         "def": 245191,
         "matk": 59497,
-        "mdef": 99974,
+        "mdef": 149962,
         "agi": 137255,
         "luk": 85244,
         "battlerName": "eigengrau",
@@ -18987,59 +18987,29 @@
             "value": 0.5
           },
           {
-            "code": 14,
-            "dataId": 4,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 5,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 6,
-            "value": 1
-          },
-          {
-            "code": 11,
+            "code": 21,
             "dataId": 2,
-            "value": 0.5
+            "value": 2.25
           },
           {
-            "code": 11,
-            "dataId": 3,
-            "value": 0.5
-          },
-          {
-            "code": 11,
-            "dataId": 4,
-            "value": 0.5
-          },
-          {
-            "code": 11,
+            "code": 21,
             "dataId": 5,
-            "value": 0.5
+            "value": 1.5
           },
           {
-            "code": 11,
-            "dataId": 6,
-            "value": 0.5
+            "code": 22,
+            "dataId": 3,
+            "value": 0.25
           },
           {
-            "code": 11,
-            "dataId": 7,
-            "value": 0.5
+            "code": 23,
+            "dataId": 0,
+            "value": 1.25
           },
           {
-            "code": 11,
-            "dataId": 8,
-            "value": 0.5
-          },
-          {
-            "code": 11,
-            "dataId": 9,
-            "value": 0.5
+            "code": 34,
+            "dataId": 0,
+            "value": 2
           },
           {
             "code": 21,
@@ -19363,6 +19333,7 @@
           "actionTimes": [],
           "autoBattle": true,
           "attackTimes": [
+            0,
             0
           ],
           "attackSkill": 1,
