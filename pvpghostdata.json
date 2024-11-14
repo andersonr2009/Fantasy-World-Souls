@@ -1,7 +1,7 @@
 [
   {
     "playerName": "Decin",
-    "variable350": 32,
+    "variable350": 0,
     "members": [
       {
         "id": 1,
@@ -58,9 +58,9 @@
         "skills": [],
         "traits": [
           {
-            "code": 61,
+            "code": 62,
             "dataId": 0,
-            "value": 0.65
+            "value": 1
           },
           {
             "code": 63,
@@ -68,15 +68,15 @@
             "value": 1
           },
           {
-            "code": 61,
+            "code": 62,
             "dataId": 0,
-            "value": 0.65
+            "value": 1
           }
         ],
         "specialFlags": {
           "substitute": false,
           "autoGuard": false,
-          "autoBattle": false,
+          "autoBattle": true,
           "preserveTp": false,
           "actionTimes": [
             {
