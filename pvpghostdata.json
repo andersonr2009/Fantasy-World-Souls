@@ -3207,7 +3207,7 @@
         "maxHp": 736263,
         "hp": 1,
         "maxMp": 3000,
-        "mp": 2520,
+        "mp": 3000,
         "atk": 271990,
         "def": 140544,
         "matk": 20000000,
@@ -3707,10 +3707,10 @@
         "maxMp": 3000,
         "mp": 2800,
         "atk": 10640548,
-        "def": 376330,
+        "def": 308467,
         "matk": 49833,
         "mdef": 64233,
-        "agi": 406268,
+        "agi": 159321,
         "luk": 74245,
         "battlerName": "c4eck2",
         "skills": [
@@ -4055,22 +4055,12 @@
           {
             "code": 22,
             "dataId": 1,
-            "value": 0.16
+            "value": 0.5
           },
           {
-            "code": 61,
-            "dataId": 0,
-            "value": 0.4
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.22
-          },
-          {
-            "code": 21,
+            "code": 22,
             "dataId": 6,
-            "value": 2.55
+            "value": -0.2
           },
           {
             "code": 21,
@@ -4183,16 +4173,16 @@
       {
         "id": 330,
         "name": "Midnight Virtue +7",
-        "maxHp": 1363679,
-        "hp": 1363679,
+        "maxHp": 1136399,
+        "hp": 1136399,
         "maxMp": 3000,
-        "mp": 2730,
-        "atk": 33675,
-        "def": 114178,
-        "matk": 60805,
-        "mdef": 80086,
+        "mp": 3000,
+        "atk": 22450,
+        "def": 125381,
+        "matk": 91208,
+        "mdef": 110340,
         "agi": 521909,
-        "luk": 142876,
+        "luk": 150926,
         "battlerName": "virtue2",
         "skills": [
           718,
@@ -4267,38 +4257,28 @@
           },
           {
             "code": 21,
-            "dataId": 2,
+            "dataId": 3,
+            "value": 5.82
+          },
+          {
+            "code": 21,
+            "dataId": 4,
             "value": 1.5
           },
           {
             "code": 21,
-            "dataId": 3,
-            "value": 5.3
-          },
-          {
-            "code": 21,
             "dataId": 5,
-            "value": 2.25
+            "value": 3.1
           },
           {
             "code": 21,
             "dataId": 7,
-            "value": 1.42
+            "value": 1.5
           },
           {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.2
-          },
-          {
-            "code": 22,
-            "dataId": 8,
-            "value": 0.12
-          },
-          {
-            "code": 22,
-            "dataId": 7,
-            "value": 0.12
+            "code": 11,
+            "dataId": 4,
+            "value": 0.2
           },
           {
             "code": 61,
@@ -4307,18 +4287,28 @@
           },
           {
             "code": 22,
-            "dataId": 2,
+            "dataId": 9,
+            "value": 0.18
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.18
+          },
+          {
+            "code": 22,
+            "dataId": 6,
             "value": 0.15
           },
           {
-            "code": 23,
-            "dataId": 5,
-            "value": 1.15
+            "code": 14,
+            "dataId": 13,
+            "value": 1
           },
           {
-            "code": 23,
-            "dataId": 4,
-            "value": 0.9
+            "code": 14,
+            "dataId": 12,
+            "value": 1
           },
           {
             "code": 14,
@@ -4326,9 +4316,19 @@
             "value": 1
           },
           {
-            "code": 14,
+            "code": 32,
             "dataId": 13,
-            "value": 1
+            "value": 0.5
+          },
+          {
+            "code": 32,
+            "dataId": 6,
+            "value": 0.5
+          },
+          {
+            "code": 32,
+            "dataId": 12,
+            "value": 0.5
           },
           {
             "code": 21,
@@ -4668,7 +4668,11 @@
           "autoBattle": true,
           "attackTimes": [],
           "attackSkill": 1,
-          "attackState": [],
+          "attackState": [
+            13,
+            6,
+            12
+          ],
           "attackElement": [
             1
           ]
@@ -4680,7 +4684,7 @@
         "maxHp": 6000000,
         "hp": 6000000,
         "maxMp": 3000,
-        "mp": 2800,
+        "mp": 3000,
         "atk": 265232,
         "def": 112231,
         "matk": 67995,
