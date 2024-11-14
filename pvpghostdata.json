@@ -6,8 +6,8 @@
       {
         "id": 1,
         "name": "Decin",
-        "maxHp": 544,
-        "hp": 544,
+        "maxHp": 400,
+        "hp": 400,
         "maxMp": 41,
         "mp": 41,
         "atk": 19,
@@ -80,11 +80,6 @@
             "code": 62,
             "dataId": 3,
             "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 6,
-            "value": 0.95
           }
         ],
         "specialFlags": {
