@@ -17,7 +17,6 @@
         "agi": 29,
         "luk": 27,
         "battlerName": "Actor1_1",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
         "skills": [
           3
         ],
@@ -55,7 +54,6 @@
         "agi": 32,
         "luk": 32,
         "battlerName": "abissal fish3trench",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>",
         "skills": [],
         "traits": [
           {
