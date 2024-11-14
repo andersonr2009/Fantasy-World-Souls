@@ -59,7 +59,7 @@
         "traits": [
           {
             "code": 62,
-            "dataId": 2,
+            "dataId": 1,
             "value": 1
           },
           {
@@ -69,13 +69,13 @@
           },
           {
             "code": 62,
-            "dataId": 2,
+            "dataId": 1,
             "value": 1
           }
         ],
         "specialFlags": {
-          "substitute": true,
-          "autoGuard": false,
+          "substitute": false,
+          "autoGuard": true,
           "autoBattle": false,
           "preserveTp": false,
           "actionTimes": [
