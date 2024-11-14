@@ -1,11 +1,11 @@
 [
   {
-    "playerName": "test3",
+    "playerName": "Decin",
     "variable350": 0,
     "members": [
       {
         "id": 1,
-        "name": "test3",
+        "name": "Decin",
         "maxHp": 400,
         "hp": 400,
         "maxMp": 41,
@@ -170,12 +170,12 @@
     ]
   },
   {
-    "playerName": "Decin",
+    "playerName": "test3",
     "variable350": 0,
     "members": [
       {
         "id": 1,
-        "name": "Decin",
+        "name": "test3",
         "maxHp": 400,
         "hp": 400,
         "maxMp": 41,
