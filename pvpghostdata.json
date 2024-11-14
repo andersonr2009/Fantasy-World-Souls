@@ -100,7 +100,7 @@
           },
           {
             "code": 62,
-            "dataId": 2,
+            "dataId": 0,
             "value": 1
           },
           {
@@ -140,12 +140,12 @@
           },
           {
             "code": 62,
-            "dataId": 2,
+            "dataId": 0,
             "value": 1
           }
         ],
         "specialFlags": {
-          "substitute": true,
+          "substitute": false,
           "autoGuard": false,
           "actionTimes": [],
           "autoBattle": false,
