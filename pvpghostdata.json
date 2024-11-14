@@ -29,10 +29,10 @@
           }
         ],
         "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
+          "substitute": true,
+          "autoGuard": true,
           "actionTimes": [],
-          "autoBattle": false,
+          "autoBattle": true,
           "attackTimes": [],
           "attackSkill": 1,
           "attackState": [],
@@ -105,10 +105,10 @@
           }
         ],
         "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
+          "substitute": true,
+          "autoGuard": true,
           "actionTimes": [],
-          "autoBattle": false,
+          "autoBattle": true,
           "attackTimes": [],
           "attackSkill": 1,
           "attackState": [],
