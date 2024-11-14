@@ -64,7 +64,7 @@
         "agi": 32,
         "luk": 32,
         "battlerName": "abissal fish3trench",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>",
+        "classNotes": "<BGEScaleX:300>\n<BGEScaleY:300>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>",
         "skills": [],
         "traits": [
           {
