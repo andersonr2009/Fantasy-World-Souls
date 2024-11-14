@@ -21,20 +21,9 @@
         "skills": [
           3
         ],
-        "traits": [
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          }
-        ],
+        "traits": [],
         "specialFlags": {
-          "substitute": true,
+          "substitute": false,
           "autoGuard": false,
           "actionTimes": [],
           "autoBattle": false,
