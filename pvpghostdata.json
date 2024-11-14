@@ -87,7 +87,18 @@
             "value": 0.95
           }
         ],
-        "classNotes": ""
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": true,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
+          ]
+        }
       }
     ]
   },
