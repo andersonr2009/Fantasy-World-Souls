@@ -18811,16 +18811,16 @@
       {
         "id": 1,
         "name": "dubz +25",
-        "maxHp": 3322040,
-        "hp": 2888730,
+        "maxHp": 3408701,
+        "hp": 3408701,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 7824600,
-        "def": 67080,
-        "matk": 33054,
-        "mdef": 25201,
-        "agi": 335417,
-        "luk": 54996,
+        "atk": 1598696,
+        "def": 245191,
+        "matk": 59497,
+        "mdef": 99974,
+        "agi": 137255,
+        "luk": 85244,
         "battlerName": "eigengrau",
         "skills": [
           4,
@@ -18879,21 +18879,6 @@
           {
             "code": 21,
             "dataId": 2,
-            "value": 2.5
-          },
-          {
-            "code": 55,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 2,
             "value": 8
           },
           {
@@ -18927,49 +18912,59 @@
             "value": 1
           },
           {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 4.24
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 2.25
+          },
+          {
+            "code": 23,
+            "dataId": 1,
+            "value": 1.3
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 0.2
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 9,
+            "value": 1
+          },
+          {
             "code": 23,
             "dataId": 0,
-            "value": 0.5
-          },
-          {
-            "code": 22,
-            "dataId": 4,
-            "value": 0.08
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": 0.08
+            "value": 0.8
           },
           {
             "code": 22,
             "dataId": 6,
-            "value": 0.1
+            "value": 0.15
           },
           {
-            "code": 21,
+            "code": 22,
             "dataId": 2,
-            "value": 2.5
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 2.9
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.7
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.15
+            "value": 0.2
           },
           {
             "code": 61,
@@ -18977,24 +18972,154 @@
             "value": 0.3
           },
           {
-            "code": 23,
-            "dataId": 1,
-            "value": 1.2
+            "code": 32,
+            "dataId": 4,
+            "value": 0.5
           },
           {
-            "code": 22,
+            "code": 32,
+            "dataId": 10,
+            "value": 0.5
+          },
+          {
+            "code": 32,
+            "dataId": 9,
+            "value": 0.5
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 14,
             "dataId": 6,
-            "value": 0.12
+            "value": 1
           },
           {
-            "code": 22,
+            "code": 11,
             "dataId": 2,
-            "value": 0.1
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 5,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 6,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 7,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 0.5
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 2.5
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.8
           },
           {
             "code": 21,
             "dataId": 5,
-            "value": 1.9
+            "value": 3.35
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.55
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.18
+          },
+          {
+            "code": 23,
+            "dataId": 1,
+            "value": 1.3
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.15
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 0.05
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.05
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 0.05
+          },
+          {
+            "code": 11,
+            "dataId": 5,
+            "value": 0.05
+          },
+          {
+            "code": 11,
+            "dataId": 6,
+            "value": 0.05
+          },
+          {
+            "code": 11,
+            "dataId": 7,
+            "value": 0.05
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 0.05
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 0.05
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 0.8
           },
           {
             "code": 22,
@@ -19138,7 +19263,7 @@
           },
           {
             "code": 21,
-            "dataId": 6,
+            "dataId": 2,
             "value": 1.15
           },
           {
@@ -19241,9 +19366,12 @@
             0
           ],
           "attackSkill": 1,
-          "attackState": [],
+          "attackState": [
+            4,
+            10,
+            9
+          ],
           "attackElement": [
-            1,
             1
           ]
         }
