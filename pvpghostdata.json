@@ -17,10 +17,16 @@
         "agi": 29,
         "luk": 27,
         "battlerName": "Actor1_1",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
         "skills": [
           3
         ],
         "traits": [
+          {
+            "code": 62,
+            "dataId": 2,
+            "value": 1
+          },
           {
             "code": 62,
             "dataId": 2,
@@ -54,8 +60,54 @@
         "agi": 32,
         "luk": 32,
         "battlerName": "abissal fish3trench",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>",
         "skills": [],
         "traits": [
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 2,
+            "value": 1
+          },
           {
             "code": 23,
             "dataId": 0,
