@@ -1,165 +1,5 @@
 [
   {
-    "playerName": "Decin",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "Decin",
-        "maxHp": 400,
-        "hp": 400,
-        "maxMp": 41,
-        "mp": 41,
-        "atk": 19,
-        "def": 17,
-        "matk": 15,
-        "mdef": 17,
-        "agi": 29,
-        "luk": 27,
-        "battlerName": "Actor1_1",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
-        "skills": [
-          3
-        ],
-        "traits": [
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
-          ]
-        }
-      },
-      {
-        "id": 2,
-        "name": "peixe",
-        "maxHp": 450,
-        "hp": 450,
-        "maxMp": 90,
-        "mp": 90,
-        "atk": 16,
-        "def": 16,
-        "matk": 16,
-        "mdef": 16,
-        "agi": 32,
-        "luk": 32,
-        "battlerName": "abissal fish3trench",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.95
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.04
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.95
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.04
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
-          ]
-        }
-      }
-    ]
-  },
-  {
     "playerName": "Ockraven +25",
     "variable350": 0,
     "members": [
@@ -1137,117 +977,6 @@
         }
       },
       {
-        "id": 39,
-        "name": "Lunar Guardian",
-        "maxHp": 13336,
-        "hp": 13336,
-        "maxMp": 2547,
-        "mp": 2547,
-        "atk": 276,
-        "def": 277,
-        "matk": 294,
-        "mdef": 274,
-        "agi": 685,
-        "luk": 702,
-        "battlerName": "lunar guardian",
-        "classNotes": "<BGEScaleX:150>\n<BGEScaleY:150>\n<Learn Skill: 13, 173, 200, 303, 305, 317, 346, 333, 417, 423, 84, 420, 81, 505, 435, 334>\n<hitSound:/new2/big-metal-knock-001-11345>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1.2
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 2,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 17,
-            "value": 0
-          },
-          {
-            "code": 22,
-            "dataId": 6,
-            "value": 0.1
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 6,
-            "value": 0.9
-          },
-          {
-            "code": 23,
-            "dataId": 7,
-            "value": 0.9
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
-          ]
-        }
-      },
-      {
         "id": 250,
         "name": "Daedalus +9",
         "maxHp": 60204,
@@ -1686,6 +1415,658 @@
           "attackElement": [
             1,
             2
+          ]
+        }
+      },
+      {
+        "id": 268,
+        "name": "Deathlord's Servant +7",
+        "maxHp": 735869,
+        "hp": 735869,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 84589,
+        "def": 34507,
+        "matk": 332798,
+        "mdef": 54255,
+        "agi": 847777,
+        "luk": 6349979,
+        "battlerName": "seiservant",
+        "classNotes": "<hitSound:/new2/big-metal-knock-001-11345>\n<Learn Skill: 13, 25, 31, 36, 243, 305, 310, 312, 407, 418, 423, 84, 475, 444, 535, 573, 562, 666>\n<BGEScaleX:200>\n<BGEScaleY:200>",
+        "skills": [
+          475,
+          562,
+          1143
+        ],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 3.55
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 4.9
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2.75
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 2.3
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.7
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.45
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.04
+          },
+          {
+            "code": 22,
+            "dataId": 5,
+            "value": 0.1
+          },
+          {
+            "code": 32,
+            "dataId": 11,
+            "value": 0.5
+          },
+          {
+            "code": 31,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 35,
+            "dataId": 1034,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 4.55
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.75
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.4
+          },
+          {
+            "code": 34,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 5,
+            "value": 0.15
+          },
+          {
+            "code": 23,
+            "dataId": 1,
+            "value": 1.3
+          },
+          {
+            "code": 22,
+            "dataId": 6,
+            "value": 0.1
+          },
+          {
+            "code": 32,
+            "dataId": 4,
+            "value": 0.5
+          },
+          {
+            "code": 32,
+            "dataId": 5,
+            "value": 0.5
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.75
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.75
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 9,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 11,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 12,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 13,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.85
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 2.75
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.65
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.15
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 23,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 23,
+            "dataId": 3,
+            "value": 1.5
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 3
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.15
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 3.2
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2.2
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2.7
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 2.7
+          },
+          {
+            "code": 43,
+            "dataId": 1143,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.35
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.65
+          },
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.2
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 0.7
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.78
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.12
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 2.7
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.33
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.12
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.2
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 16,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 0.4
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 2
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.4
+          }
+        ],
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": true,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [
+            0
+          ],
+          "attackSkill": 1034,
+          "attackState": [
+            11,
+            4,
+            5
+          ],
+          "attackElement": [
+            1,
+            3
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "playerName": "Decin",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Decin",
+        "maxHp": 400,
+        "hp": 400,
+        "maxMp": 41,
+        "mp": 41,
+        "atk": 19,
+        "def": 17,
+        "matk": 15,
+        "mdef": 17,
+        "agi": 29,
+        "luk": 27,
+        "battlerName": "Actor1_1",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
+        "skills": [
+          3
+        ],
+        "traits": [
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "name": "peixe",
+        "maxHp": 450,
+        "hp": 450,
+        "maxMp": 90,
+        "mp": 90,
+        "atk": 16,
+        "def": 16,
+        "matk": 16,
+        "mdef": 16,
+        "agi": 32,
+        "luk": 32,
+        "battlerName": "abissal fish3trench",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
           ]
         }
       }
