@@ -532,7 +532,18 @@
             "value": 1
           }
         ],
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 584, 641, 651>\n<hitSound:/new2/golpe-de-olla-79857>\n\n\n"
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": true,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
+          ]
+        }
       },
       {
         "id": 167,
@@ -760,7 +771,21 @@
             "value": 0.9
           }
         ],
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 10, 331, 329, 323, 326, 319, 360, 88, 427, 454, 446, 524, 455, 526, 529, 537, 530, 534, 531>\n<hitSound:/new2/golpe-de-olla-79857>\n\n"
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": true,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [
+            0
+          ],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1,
+            8
+          ]
+        }
       },
       {
         "id": 267,
@@ -953,7 +978,18 @@
             "value": 1
           }
         ],
-        "classNotes": "<hitSound:/new2/big-metal-knock-001-11345>\n<Learn Skill: 30, 64, 84, 310, 375, 423, 483, 568, 364, 543, 579, 583, 584, 631, 665>\n<BGEScaleX:200>\n<BGEScaleY:200>"
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": true,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
+          ]
+        }
       },
       {
         "id": 6,
@@ -1239,7 +1275,16 @@
             "value": 0.6
           }
         ],
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 235, 232, 237, 305, 19, 23, 26, 30, 20>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>"
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": true,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": []
+        }
       }
     ]
   },
