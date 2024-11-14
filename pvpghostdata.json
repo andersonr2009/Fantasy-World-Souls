@@ -1,5 +1,175 @@
 [
   {
+    "playerName": "Decin",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Decin",
+        "maxHp": 400,
+        "hp": 400,
+        "maxMp": 41,
+        "mp": 41,
+        "atk": 19,
+        "def": 17,
+        "matk": 15,
+        "mdef": 17,
+        "agi": 29,
+        "luk": 27,
+        "battlerName": "Actor1_1",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
+        "skills": [
+          3
+        ],
+        "traits": [
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "name": "peixe",
+        "maxHp": 450,
+        "hp": 450,
+        "maxMp": 90,
+        "mp": 90,
+        "atk": 16,
+        "def": 16,
+        "matk": 16,
+        "mdef": 16,
+        "agi": 32,
+        "luk": 32,
+        "battlerName": "abissal fish3trench",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 62,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 2,
+            "value": 1
+          }
+        ],
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": false,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [],
+          "attackSkill": 1,
+          "attackState": [],
+          "attackElement": [
+            1
+          ]
+        }
+      }
+    ]
+  },
+  {
     "playerName": "Ockraven +25",
     "variable350": 0,
     "members": [
@@ -1526,176 +1696,6 @@
           "attackElement": [
             1,
             2
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "playerName": "Decin",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "Decin",
-        "maxHp": 400,
-        "hp": 400,
-        "maxMp": 41,
-        "mp": 41,
-        "atk": 19,
-        "def": 17,
-        "matk": 15,
-        "mdef": 17,
-        "agi": 29,
-        "luk": 27,
-        "battlerName": "Actor1_1",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
-        "skills": [
-          3
-        ],
-        "traits": [
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
-          ]
-        }
-      },
-      {
-        "id": 2,
-        "name": "peixe",
-        "maxHp": 450,
-        "hp": 450,
-        "maxMp": 90,
-        "mp": 90,
-        "atk": 16,
-        "def": 16,
-        "matk": 16,
-        "mdef": 16,
-        "agi": 32,
-        "luk": 32,
-        "battlerName": "abissal fish3trench",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.95
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.04
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.95
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.04
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": false,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
           ]
         }
       }
