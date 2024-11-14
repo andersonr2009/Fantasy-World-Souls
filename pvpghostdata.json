@@ -1,5 +1,104 @@
 [
   {
+    "playerName": "Decin",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Decin",
+        "maxHp": 300,
+        "hp": 300,
+        "maxMp": 41,
+        "mp": 41,
+        "atk": 189,
+        "def": 0,
+        "matk": 222,
+        "mdef": 0,
+        "agi": 29,
+        "luk": 27,
+        "battlerName": "Actor1_1",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
+        "skills": [
+          3
+        ],
+        "traits": [
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": false,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "name": "peixe",
+        "maxHp": 450,
+        "hp": 450,
+        "maxMp": 90,
+        "mp": 90,
+        "atk": 16,
+        "def": 16,
+        "matk": 16,
+        "mdef": 16,
+        "agi": 32,
+        "luk": 32,
+        "battlerName": "abissal fish3trench",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.99
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.99
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": false,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "wasDefeated": false
+  },
+  {
     "playerName": "Dinivas +25",
     "variable350": 0,
     "members": [
@@ -5149,104 +5248,6 @@
           "autoGuard": false,
           "autoBattle": false,
           "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "playerName": "Decin",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "Decin",
-        "maxHp": 300,
-        "hp": 300,
-        "maxMp": 41,
-        "mp": 41,
-        "atk": 189,
-        "def": 0,
-        "matk": 222,
-        "mdef": 0,
-        "agi": 29,
-        "luk": 27,
-        "battlerName": "Actor1_1",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
-        "skills": [
-          3
-        ],
-        "traits": [
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": false,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "id": 2,
-        "name": "peixe",
-        "maxHp": 450,
-        "hp": 450,
-        "maxMp": 90,
-        "mp": 90,
-        "atk": 16,
-        "def": 16,
-        "matk": 16,
-        "mdef": 16,
-        "agi": 32,
-        "luk": 32,
-        "battlerName": "abissal fish3trench",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 61,
-            "dataId": 0,
-            "value": 0.99
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 61,
-            "dataId": 0,
-            "value": 0.99
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": false,
           "actionTimes": [
             {
               "value": 1
