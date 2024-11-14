@@ -64,11 +64,21 @@
         "agi": 32,
         "luk": 32,
         "battlerName": "abissal fish3trench",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>",
+        "classNotes": "<BGEScaleX:400>\n<BGEScaleY:400>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>",
         "skills": [],
         "traits": [
           {
+            "code": 62,
+            "dataId": 0,
+            "value": 1
+          },
+          {
             "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
             "dataId": 0,
             "value": 1
           }
@@ -76,7 +86,7 @@
         "specialFlags": {
           "substitute": false,
           "autoGuard": false,
-          "autoBattle": false,
+          "autoBattle": true,
           "preserveTp": false,
           "actionTimes": [
             {
