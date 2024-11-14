@@ -23,10 +23,10 @@
         ],
         "traits": [],
         "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
+          "substitute": false,
+          "autoGuard": false,
           "actionTimes": [],
-          "autoBattle": true,
+          "autoBattle": false,
           "attackTimes": [],
           "attackSkill": 1,
           "attackState": [],
@@ -99,10 +99,10 @@
           }
         ],
         "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
+          "substitute": false,
+          "autoGuard": false,
           "actionTimes": [],
-          "autoBattle": true,
+          "autoBattle": false,
           "attackTimes": [],
           "attackSkill": 1,
           "attackState": [],
