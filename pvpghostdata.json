@@ -18735,16 +18735,16 @@
       {
         "id": 1,
         "name": "dubz +25",
-        "maxHp": 4766405,
-        "hp": 4766405,
+        "maxHp": 3322040,
+        "hp": 3322040,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 7668108,
-        "def": 54984,
-        "matk": 81313,
-        "mdef": 28422,
-        "agi": 1956868,
-        "luk": 129928,
+        "atk": 3599316,
+        "def": 67080,
+        "matk": 33054,
+        "mdef": 25201,
+        "agi": 291667,
+        "luk": 54996,
         "battlerName": "eigengrau",
         "skills": [
           4,
@@ -18776,6 +18776,7 @@
           1135,
           1136,
           1307,
+          469,
           141
         ],
         "traits": [
@@ -18810,94 +18811,54 @@
             "value": 1
           },
           {
-            "code": 22,
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 21,
             "dataId": 2,
-            "value": 0.75
+            "value": 8
           },
           {
             "code": 22,
-            "dataId": 3,
-            "value": -0.75
+            "dataId": 6,
+            "value": 0.3
           },
           {
             "code": 34,
             "dataId": 0,
             "value": 2
-          },
-          {
-            "code": 35,
-            "dataId": 1048,
-            "value": 1
-          },
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 5.6
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2.46
           },
           {
             "code": 21,
             "dataId": 6,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.75
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.32
-          },
-          {
-            "code": 31,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 32,
-            "dataId": 9,
-            "value": 0.5
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 2.25
+            "value": 0.7
           },
           {
             "code": 21,
             "dataId": 5,
-            "value": 1.5
+            "value": 0.7
           },
           {
             "code": 22,
-            "dataId": 3,
-            "value": 0.25
+            "dataId": 2,
+            "value": 0.2
           },
           {
-            "code": 23,
-            "dataId": 0,
-            "value": 1.25
+            "code": 43,
+            "dataId": 469,
+            "value": 1
           },
           {
-            "code": 34,
-            "dataId": 0,
-            "value": 2
+            "code": 35,
+            "dataId": 32,
+            "value": 1
           },
           {
             "code": 21,
             "dataId": 2,
-            "value": 2.1
+            "value": 1.35
           },
           {
             "code": 21,
@@ -18906,18 +18867,28 @@
           },
           {
             "code": 21,
-            "dataId": 7,
-            "value": 1.35
+            "dataId": 6,
+            "value": 1.7
           },
           {
             "code": 21,
             "dataId": 0,
-            "value": 1.25
+            "value": 1.15
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.3
+          },
+          {
+            "code": 23,
+            "dataId": 1,
+            "value": 1.2
           },
           {
             "code": 22,
-            "dataId": 9,
-            "value": 0.1
+            "dataId": 6,
+            "value": 0.12
           },
           {
             "code": 22,
@@ -18925,49 +18896,14 @@
             "value": 0.1
           },
           {
-            "code": 23,
-            "dataId": 3,
-            "value": 1.4
-          },
-          {
-            "code": 23,
-            "dataId": 2,
-            "value": 1.4
-          },
-          {
-            "code": 14,
-            "dataId": 6,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 4,
-            "value": 1
-          },
-          {
             "code": 21,
-            "dataId": 6,
-            "value": 1.65
-          },
-          {
-            "code": 34,
-            "dataId": 0,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 3
+            "dataId": 5,
+            "value": 1.9
           },
           {
             "code": 22,
-            "dataId": 7,
-            "value": 0.15
-          },
-          {
-            "code": 22,
-            "dataId": 9,
-            "value": 0.15
+            "dataId": 6,
+            "value": 0.3
           },
           {
             "code": 21,
@@ -19085,13 +19021,28 @@
             "value": 2
           },
           {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.16
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.4
+          },
+          {
             "code": 21,
-            "dataId": 6,
-            "value": 3.11
+            "dataId": 3,
+            "value": 1.22
           },
           {
             "code": 21,
             "dataId": 6,
+            "value": 2.55
+          },
+          {
+            "code": 21,
+            "dataId": 2,
             "value": 1.15
           },
           {
@@ -19185,7 +19136,21 @@
             "value": 1
           }
         ],
-        "classNotes": "<hitSound:/Monsters/male_hurt7-48124>\n<Learn Skill: 1135, 1136, 1307>\n<BGEScaleX:200>\n<BGEScaleY:200>"
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": true,
+          "actionTimes": [],
+          "autoBattle": true,
+          "attackTimes": [
+            0
+          ],
+          "attackSkill": 32,
+          "attackState": [],
+          "attackElement": [
+            1,
+            1
+          ]
+        }
       }
     ]
   }
