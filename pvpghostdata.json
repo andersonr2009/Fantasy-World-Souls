@@ -99,16 +99,6 @@
             "value": 0
           },
           {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          },
-          {
             "code": 23,
             "dataId": 0,
             "value": 1
@@ -142,23 +132,13 @@
             "code": 52,
             "dataId": 1,
             "value": 0
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
           }
         ],
         "specialFlags": {
-          "substitute": true,
+          "substitute": false,
           "autoGuard": false,
           "actionTimes": [],
-          "autoBattle": true,
+          "autoBattle": false,
           "attackTimes": [],
           "attackSkill": 1,
           "attackState": [],
