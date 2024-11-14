@@ -130,7 +130,7 @@
         "specialFlags": {
           "substitute": false,
           "autoGuard": false,
-          "autoBattle": false,
+          "autoBattle": true,
           "preserveTp": false
         }
       }
