@@ -1,1 +1,15 @@
 
+{
+  "jogadores": [
+    {
+      "id": 1,
+      "nome": "Jogador1",
+      "nivel": 10
+    },
+    {
+      "id": 2,
+      "nome": "Player2",
+      "nivel": 15
+    }
+  ]
+}
