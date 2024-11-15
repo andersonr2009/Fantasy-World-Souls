@@ -28,5 +28,11 @@
     "itemId": 1,
     "name": "Potion",
     "timestamp": "2024-11-15T02:12:38.765Z"
+  },
+  {
+    "playerId": 625799,
+    "itemId": 2,
+    "name": "Ether",
+    "timestamp": "2024-11-15T02:12:48.611Z"
   }
 ]
