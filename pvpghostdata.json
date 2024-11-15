@@ -16,6 +16,7 @@
         "mdef": 20199,
         "agi": 20156,
         "luk": 31588,
+        "hue": 240,
         "battlerName": "alexneo",
         "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 584, 641, 651>\n<hitSound:/new2/golpe-de-olla-79857>\n\n\n",
         "skills": [
@@ -415,6 +416,7 @@
         "mdef": 103538,
         "agi": 20619,
         "luk": 15981,
+        "hue": 180,
         "battlerName": "mecha",
         "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 10, 331, 329, 323, 326, 319, 360, 88, 427, 454, 446, 524, 455, 526, 529, 537, 530, 534, 531>\n<hitSound:/new2/golpe-de-olla-79857>\n\n",
         "skills": [
@@ -734,6 +736,7 @@
         "mdef": 654,
         "agi": 18204,
         "luk": 9648,
+        "hue": 0,
         "battlerName": "bullfrog",
         "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 69, 71, 74, 301, 402>\n<hitSound:/Monsters/frog_03-97936>",
         "skills": [
@@ -925,6 +928,7 @@
         "mdef": 4142,
         "agi": 2505,
         "luk": 2914,
+        "hue": 270,
         "battlerName": "goo",
         "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 235, 232, 237, 305, 19, 23, 26, 30, 20>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>",
         "skills": [
