@@ -23,7 +23,7 @@
         "Skill",
         "Equip",
         "Status",
-        "FormaÃÂÃÂ§ÃÂÃÂ£o",
+        "FormaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ£o",
         "Save",
         "Game End",
         "Options",
@@ -69,7 +69,7 @@
         "loadMessage": "Which file would you like to load?",
         "file": "File",
         "autosave": "Autosave",
-        "partyName": "%1ÃÂ¢ÃÂÃÂs Party",
+        "partyName": "%1ÃÂÃÂ¢ÃÂÃÂÃÂÃÂs Party",
         "emerge": "%1 emerged!",
         "preemptive": "%1 got the upper hand!",
         "surprise": "%1 was surprised!",
@@ -104,9 +104,9 @@
         "magicReflection": "%1 reflected the magic!",
         "counterAttack": "%1 made a counterattack!",
         "substitute": "%1 protected %2!",
-        "buffAdd": "%1ÃÂ¢ÃÂÃÂs %2 went up!",
-        "debuffAdd": "%1ÃÂ¢ÃÂÃÂs %2 went down!",
-        "buffRemove": "%1ÃÂ¢ÃÂÃÂs %2 returned to normal!",
+        "buffAdd": "%1ÃÂÃÂ¢ÃÂÃÂÃÂÃÂs %2 went up!",
+        "debuffAdd": "%1ÃÂÃÂ¢ÃÂÃÂÃÂÃÂs %2 went down!",
+        "buffRemove": "%1ÃÂÃÂ¢ÃÂÃÂÃÂÃÂs %2 returned to normal!",
         "actionFailure": "There was no effect on %1!"
       }
     }
@@ -117,12 +117,8 @@
       "Level",
       "Lv",
       "HP",
-      "HP",
-      "MP",
       "MP",
       "TP",
-      "TP",
-      "EXP",
       "EXP"
     ],
     "commands": [
@@ -141,7 +137,6 @@
       "Weapon",
       "Armor",
       "Key Item",
-      "Equip",
       "Optimize",
       "Clear",
       "New Game",
@@ -149,7 +144,6 @@
       null,
       "To Title",
       "Cancel",
-      null,
       "Buy",
       "Sell"
     ],
