@@ -1,0 +1,29 @@
+{
+    "elements": {
+        "fire": "Fogo",
+        "water": "Água",
+        "earth": "Terra",
+        "wind": "Vento"
+    },
+    "traits": {
+        "strength": "Força",
+        "agility": "Agilidade",
+        "intelligence": "Inteligência"
+    },
+    "items": {
+        "potion": "Poção",
+        "elixir": "Elixir",
+        "sword": "Espada",
+        "shield": "Escudo"
+    },
+    "skills": {
+        "slash": "Corte",
+        "heal": "Cura",
+        "fireball": "Bola de Fogo"
+    },
+    "enemies": {
+        "goblin": "Goblin",
+        "dragon": "Dragão",
+        "slime": "Gosma"
+    }
+}
