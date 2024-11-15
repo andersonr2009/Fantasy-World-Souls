@@ -1,1 +1,10 @@
-{"items":[{"playerId":861783,"itemId":1,"name":"Potion","description":"Below are spaces for when you would like to display\nitems above the recovery items.","iconIndex":176}]}
+[
+  {
+    "playerId": 287332,
+    "itemId": 1,
+    "name": "Potion",
+    "description": "Below are spaces for when you would like to display\nitems above the recovery items.",
+    "iconIndex": 176,
+    "submittedAt": "2024-11-15T12:53:32.016Z"
+  }
+]
