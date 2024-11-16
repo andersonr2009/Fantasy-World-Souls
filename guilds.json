@@ -1,0 +1,42 @@
+{
+  "guilds": [
+    {
+      "id": 1,
+      "name": "Clã dos Guerreiros",
+      "level": 5,
+      "members": [
+        {
+          "id": 101,
+          "name": "Aragorn",
+          "role": "Líder",
+          "level": 10
+        },
+        {
+          "id": 102,
+          "name": "Legolas",
+          "role": "Arqueiro",
+          "level": 9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Clã dos Magos",
+      "level": 3,
+      "members": [
+        {
+          "id": 201,
+          "name": "Gandalf",
+          "role": "Líder",
+          "level": 12
+        },
+        {
+          "id": 202,
+          "name": "Saruman",
+          "role": "Mago",
+          "level": 11
+        }
+      ]
+    }
+  ]
+}
