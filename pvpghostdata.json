@@ -1,5 +1,810 @@
 [
   {
+    "playerName": "Cyrax",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Cyrax",
+        "maxHp": 1026,
+        "hp": 1026,
+        "maxMp": 182,
+        "mp": 182,
+        "atk": 39,
+        "def": 32,
+        "matk": 28,
+        "mdef": 42,
+        "agi": 75,
+        "luk": 50,
+        "hue": 0,
+        "battlerName": "alexneo",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 4, 7, 172, 304, 303, 401, 98, 13>\n<hitSound:/Monsters/male_hurt7-48124>\n\n",
+        "skills": [
+          4,
+          7,
+          13,
+          14,
+          20,
+          129,
+          186,
+          303,
+          304
+        ],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 9,
+            "value": 0.01
+          },
+          {
+            "code": 22,
+            "dataId": 3,
+            "value": 0.18
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.17
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.5
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 15,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 6,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 15,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 6,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 10,
+            "value": 1
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 55,
+        "name": "Memory Chip",
+        "maxHp": 429,
+        "hp": 429,
+        "maxMp": 77,
+        "mp": 77,
+        "atk": 27,
+        "def": 19,
+        "matk": 15,
+        "mdef": 14,
+        "agi": 24,
+        "luk": 17,
+        "hue": 0,
+        "battlerName": "sphere",
+        "classNotes": "<hitSound:/new2/golpe-de-olla-79857>\n<Learn Skill: 88, 115, 119, 153, 232, 233, 322, 323>\n<BGEScaleX:100>\n<BGEScaleY:100>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.12
+          },
+          {
+            "code": 31,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 9,
+            "value": 0.01
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 9,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 0.4
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 1.4
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.95
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.04
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 9,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 0.4
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 1.4
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 17,
+        "name": "Wooddreamer",
+        "maxHp": 841,
+        "hp": 841,
+        "maxMp": 159,
+        "mp": 159,
+        "atk": 32,
+        "def": 32,
+        "matk": 31,
+        "mdef": 25,
+        "agi": 45,
+        "luk": 41,
+        "hue": 0,
+        "battlerName": "wooddreamer",
+        "classNotes": "<BGEScaleX:150>\n<BGEScaleY:150>\n<Learn Skill: 85, 90, 129, 130, 153, 100, 60, 73, 69, 71>\n<hitSound:/new2/big-metal-knock-001-11345>",
+        "skills": [
+          130,
+          153
+        ],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.05
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.05
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 408,
+        "name": "*Tourmaline",
+        "maxHp": 750,
+        "hp": 750,
+        "maxMp": 144,
+        "mp": 144,
+        "atk": 29,
+        "def": 24,
+        "matk": 29,
+        "mdef": 24,
+        "agi": 40,
+        "luk": 48,
+        "hue": 0,
+        "battlerName": "tourmaline",
+        "classNotes": "<Learn Skill: 63, 89, 212, 321, 454, 500, 561, 136, 571, 1113, 1184, 1369>\n<BGEScaleX:200>\n<BGEScaleY:200>\n<hitSound:/Monsters/078599_monster-82504>\n\n\n",
+        "skills": [
+          119
+        ],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 7,
+            "value": 0.04
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.06
+          },
+          {
+            "code": 43,
+            "dataId": 119,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 19,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.3
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 19,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.3
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "playerName": "MonkeyDGalahad",
     "variable350": 0,
     "members": [
@@ -37980,104 +38785,6 @@
           "attackState": [],
           "attackElement": [
             9
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "playerName": "sabin",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "sabin",
-        "maxHp": 400,
-        "hp": 400,
-        "maxMp": 41,
-        "mp": 41,
-        "atk": 19,
-        "def": 17,
-        "matk": 15,
-        "mdef": 17,
-        "agi": 29,
-        "luk": 27,
-        "battlerName": "Actor1_1",
-        "skills": [
-          3
-        ],
-        "traits": [
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 51,
-            "dataId": 2,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 3,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 5,
-            "value": 0
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
           ]
         }
       }
