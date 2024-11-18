@@ -6,16 +6,16 @@
       {
         "id": 1,
         "name": "MonkeyDGalahad",
-        "maxHp": 3849,
-        "hp": 3849,
-        "maxMp": 497,
-        "mp": 497,
-        "atk": 129,
-        "def": 92,
-        "matk": 68,
-        "mdef": 90,
-        "agi": 102,
-        "luk": 140,
+        "maxHp": 4514,
+        "hp": 4514,
+        "maxMp": 636,
+        "mp": 636,
+        "atk": 144,
+        "def": 110,
+        "matk": 83,
+        "mdef": 105,
+        "agi": 135,
+        "luk": 179,
         "hue": 0,
         "battlerName": "Green Dragon",
         "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 305, 318, 363, 428, 423, 84, 14, 357, 460>\n<hitSound:/Monsters/078599_monster-82504>\n<Battle Commands>\n Attack\n Skill: 43\n Skills\n Guard\n Item\n Party\n Escape\n</Battle Commands>",
@@ -25,6 +25,7 @@
           305,
           319,
           363,
+          460,
           100
         ],
         "traits": [
@@ -55,8 +56,8 @@
           },
           {
             "code": 11,
-            "dataId": 3,
-            "value": 0.86
+            "dataId": 6,
+            "value": 0.8
           },
           {
             "code": 62,
@@ -249,22 +250,23 @@
       {
         "id": 23,
         "name": "Deepdrake",
-        "maxHp": 1985,
-        "hp": 1985,
-        "maxMp": 290,
-        "mp": 290,
-        "atk": 46,
-        "def": 51,
-        "matk": 45,
-        "mdef": 55,
-        "agi": 90,
-        "luk": 76,
+        "maxHp": 2744,
+        "hp": 2744,
+        "maxMp": 565,
+        "mp": 565,
+        "atk": 62,
+        "def": 73,
+        "matk": 85,
+        "mdef": 76,
+        "agi": 133,
+        "luk": 122,
         "hue": 0,
         "battlerName": "deepdrake",
         "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 19, 20, 12, 39, 41, 63, 325, 326, 414, 428, 410, 153, 311, 338, 341, 520>\n<hitSound:/Monsters/078599_monster-82504>",
         "skills": [
           19,
           153,
+          326,
           341,
           119
         ],
@@ -273,6 +275,21 @@
             "code": 31,
             "dataId": 1,
             "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.2
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.9
           },
           {
             "code": 22,
@@ -293,6 +310,11 @@
             "code": 22,
             "dataId": 1,
             "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.86
           },
           {
             "code": 43,
@@ -450,16 +472,16 @@
       {
         "id": 403,
         "name": "Night Nua",
-        "maxHp": 2081,
-        "hp": 2081,
-        "maxMp": 383,
-        "mp": 383,
-        "atk": 57,
-        "def": 58,
-        "matk": 75,
-        "mdef": 70,
-        "agi": 119,
-        "luk": 95,
+        "maxHp": 2728,
+        "hp": 2728,
+        "maxMp": 696,
+        "mp": 696,
+        "atk": 75,
+        "def": 90,
+        "matk": 131,
+        "mdef": 92,
+        "agi": 168,
+        "luk": 144,
         "hue": 0,
         "battlerName": "nuanene",
         "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 123, 124, 132, 133, 148, 242, 309, 471, 445, 527, 553, 1359>\n\n<hitSound:/new2/big-metal-knock-001-11345>\n",
@@ -470,6 +492,7 @@
           133,
           148,
           242,
+          309,
           52
         ],
         "traits": [
@@ -477,6 +500,21 @@
             "code": 31,
             "dataId": 1,
             "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.2
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.9
           },
           {
             "code": 22,
@@ -494,9 +532,14 @@
             "value": 0
           },
           {
-            "code": 22,
-            "dataId": 1,
-            "value": 0
+            "code": 21,
+            "dataId": 3,
+            "value": 1.1
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.1
           },
           {
             "code": 43,
@@ -674,20 +717,21 @@
       {
         "id": 269,
         "name": "Imperial Squire",
-        "maxHp": 2124,
-        "hp": 2124,
-        "maxMp": 226,
-        "mp": 226,
-        "atk": 74,
-        "def": 48,
-        "matk": 39,
-        "mdef": 56,
-        "agi": 80,
-        "luk": 76,
+        "maxHp": 3420,
+        "hp": 3420,
+        "maxMp": 422,
+        "mp": 422,
+        "atk": 104,
+        "def": 80,
+        "matk": 69,
+        "mdef": 88,
+        "agi": 140,
+        "luk": 133,
         "hue": 0,
         "battlerName": "defender",
         "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 14, 301, 325, 54, 372, 84, 423, 460, 464, 525, 528, 544, 580, 667>\n<hitSound:/new2/golpe-de-olla-79857>\n\n",
         "skills": [
+          14,
           54,
           301,
           119
