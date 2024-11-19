@@ -1,5 +1,343 @@
 [
   {
+    "playerName": "kefka",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "kefka",
+        "maxHp": 805,
+        "hp": 805,
+        "maxMp": 167,
+        "mp": 167,
+        "atk": 23,
+        "def": 27,
+        "matk": 25,
+        "mdef": 24,
+        "agi": 48,
+        "luk": 48,
+        "hue": 0,
+        "battlerName": "galahneo",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 318, 36, 176, 81, 24, 319>\n<hitSound:/Monsters/male_hurt7-48124>\n<Battle Commands>\n Attack\n Skill: 43\n Skills\n Guard\n Item\n Party\n Escape\n</Battle Commands>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 4,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 24,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 4,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 24,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 94,
+        "name": "M.Cat Toon",
+        "maxHp": 372,
+        "hp": 372,
+        "maxMp": 69,
+        "mp": 69,
+        "atk": 13,
+        "def": 14,
+        "matk": 13,
+        "mdef": 13,
+        "agi": 23,
+        "luk": 22,
+        "hue": 0,
+        "battlerName": "mole cat2",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<hitSound:/Monsters/mixkit-cartoon-insect-scape-buzz-38>\n\n<Learn Skill: 335, 336, 83, 422, 32, 416, 329, 332, 12, 21, 29, 52, 53>\n\n",
+        "skills": [],
+        "traits": [
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 9,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 5,
+            "value": 0.08
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 9,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 5,
+            "value": 0.08
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "playerName": "SoulsCrusher +13",
     "variable350": 0,
     "members": [
@@ -38883,120 +39221,6 @@
       {
         "id": 1,
         "name": "test2",
-        "maxHp": 400,
-        "hp": 400,
-        "maxMp": 41,
-        "mp": 41,
-        "atk": 19,
-        "def": 17,
-        "matk": 15,
-        "mdef": 17,
-        "agi": 29,
-        "luk": 27,
-        "battlerName": "Actor1_1",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
-        "skills": [
-          3
-        ],
-        "traits": [],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
-          ]
-        }
-      },
-      {
-        "id": 2,
-        "name": "peixe",
-        "maxHp": 450,
-        "hp": 450,
-        "maxMp": 90,
-        "mp": 90,
-        "atk": 16,
-        "def": 16,
-        "matk": 16,
-        "mdef": 16,
-        "agi": 32,
-        "luk": 32,
-        "battlerName": "abissal fish3trench",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.95
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.04
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "playerName": "test",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "test",
         "maxHp": 400,
         "hp": 400,
         "maxMp": 41,
