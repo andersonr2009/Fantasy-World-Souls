@@ -1,113 +1,5 @@
 [
   {
-    "playerName": "Decinstrong",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "Decinstrong",
-        "maxHp": 7728,
-        "hp": 7728,
-        "maxMp": 895,
-        "mp": 895,
-        "atk": 196,
-        "def": 172,
-        "matk": 133,
-        "mdef": 159,
-        "agi": 327,
-        "luk": 332,
-        "battlerName": "Actor1_1",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
-        "skills": [
-          3
-        ],
-        "traits": [
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": false,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "id": 2,
-        "name": "peixe",
-        "maxHp": 450,
-        "hp": 450,
-        "maxMp": 90,
-        "mp": 90,
-        "atk": 16,
-        "def": 16,
-        "matk": 16,
-        "mdef": 16,
-        "agi": 32,
-        "luk": 32,
-        "battlerName": "abissal fish3trench",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 61,
-            "dataId": 0,
-            "value": 0.99
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 61,
-            "dataId": 0,
-            "value": 0.99
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": false,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
     "playerName": "Developer +25",
     "variable350": 0,
     "members": [
@@ -670,6 +562,114 @@
           "autoGuard": false,
           "autoBattle": false,
           "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "playerName": "Decinstrong",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Decinstrong",
+        "maxHp": 7728,
+        "hp": 7728,
+        "maxMp": 895,
+        "mp": 895,
+        "atk": 196,
+        "def": 172,
+        "matk": 133,
+        "mdef": 159,
+        "agi": 327,
+        "luk": 332,
+        "battlerName": "Actor1_1",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>",
+        "skills": [
+          3
+        ],
+        "traits": [
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": false,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "name": "peixe",
+        "maxHp": 450,
+        "hp": 450,
+        "maxMp": 90,
+        "mp": 90,
+        "atk": 16,
+        "def": 16,
+        "matk": 16,
+        "mdef": 16,
+        "agi": 32,
+        "luk": 32,
+        "battlerName": "abissal fish3trench",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.99
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 61,
+            "dataId": 0,
+            "value": 0.99
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": false,
           "actionTimes": [
             {
               "value": 1
