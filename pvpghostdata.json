@@ -1,5 +1,651 @@
 [
   {
+    "playerName": "breezy +2",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "breezy +2",
+        "maxHp": 154793,
+        "hp": 154793,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 4590,
+        "def": 2217,
+        "matk": 2223,
+        "mdef": 2604,
+        "agi": 9611,
+        "luk": 9636,
+        "hue": 0,
+        "battlerName": "Wendy",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 570, 582, 640, 661>\n<hitSound:/womanandinstruments/female-hurt-2-94301>",
+        "skills": [
+          80
+        ],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 54,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.05
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 2.06
+          },
+          {
+            "code": 35,
+            "dataId": 981,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.5
+          },
+          {
+            "code": 14,
+            "dataId": 4,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 6,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 9,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 11,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 12,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 13,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 7,
+            "value": 0.04
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.06
+          },
+          {
+            "code": 22,
+            "dataId": 3,
+            "value": 0.18
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.17
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.5
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 7,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 23,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.2
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 7,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 23,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.2
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 390,
+        "name": "*Yet King",
+        "maxHp": 778,
+        "hp": 778,
+        "maxMp": 159,
+        "mp": 159,
+        "atk": 25,
+        "def": 25,
+        "matk": 26,
+        "mdef": 26,
+        "agi": 43,
+        "luk": 56,
+        "hue": 0,
+        "battlerName": "yetking",
+        "classNotes": "<Learn Skill: 107, 191, 235, 321, 414, 87, 426, 433, 454, 459, 469, 545, 544, 1314, 1169>\n<BGEScaleX:200>\n<BGEScaleY:200>\n<hitSound:/Monsters/078599_monster-82504>\n\n\n",
+        "skills": [],
+        "traits": [
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 19,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.3
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 19,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.3
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 1.5
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 410,
+        "name": "Finna",
+        "maxHp": 533,
+        "hp": 533,
+        "maxMp": 110,
+        "mp": 110,
+        "atk": 18,
+        "def": 18,
+        "matk": 25,
+        "mdef": 20,
+        "agi": 31,
+        "luk": 34,
+        "hue": 0,
+        "battlerName": "finna",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 74, 132, 240, 332, 368, 473, 445, 527, 536, 568, 1117, 1368>\n\n<hitSound:/womanandinstruments/female-hurt-2-94301>\n",
+        "skills": [],
+        "traits": [
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.3
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.3
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "playerName": "PurpleKnight",
     "variable350": 0,
     "members": [
@@ -38817,1226 +39463,6 @@
             1,
             6
           ]
-        }
-      }
-    ]
-  },
-  {
-    "playerName": "avatarofvelius +2",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "avatarofvelius +2",
-        "maxHp": 9555,
-        "hp": 9555,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 3170,
-        "def": 1463,
-        "matk": 3023,
-        "mdef": 1688,
-        "agi": 3985,
-        "luk": 3868,
-        "battlerName": "Leyna",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 588, 574, 658>\n<hitSound:/Monsters/male_hurt7-48124>",
-        "skills": [
-          14,
-          20,
-          27,
-          29,
-          60,
-          129,
-          153,
-          311,
-          323,
-          351,
-          409,
-          468,
-          529,
-          546,
-          549,
-          588,
-          57
-        ],
-        "traits": [
-          {
-            "code": 11,
-            "dataId": 3,
-            "value": 0.9
-          },
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.15
-          },
-          {
-            "code": 31,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 14,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 9,
-            "value": 1.2
-          },
-          {
-            "code": 23,
-            "dataId": 5,
-            "value": 1.2
-          },
-          {
-            "code": 23,
-            "dataId": 4,
-            "value": 0.8
-          },
-          {
-            "code": 23,
-            "dataId": 5,
-            "value": 1.2
-          },
-          {
-            "code": 23,
-            "dataId": 9,
-            "value": 1.15
-          },
-          {
-            "code": 43,
-            "dataId": 57,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 9,
-            "value": 1.1
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2.2
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 2.2
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.1
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": 0.15
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 9,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 14,
-            "value": 0
-          },
-          {
-            "code": 34,
-            "dataId": 0,
-            "value": 1
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [
-            0
-          ],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1,
-            3
-          ]
-        }
-      },
-      {
-        "id": 246,
-        "name": "Teldamar +7",
-        "maxHp": 16777,
-        "hp": 16777,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 7706,
-        "def": 1905,
-        "matk": 407806,
-        "mdef": 12958,
-        "agi": 24244,
-        "luk": 25979,
-        "battlerName": "teldamar",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 321, 350, 90, 429, 433, 473, 476, 500, 312, 504, 445, 527, 561, 568, 572, 575, 642>\n<hitSound:/Monsters/078599_monster-82504>\n",
-        "skills": [
-          90,
-          312,
-          321,
-          350,
-          429,
-          433,
-          445,
-          500,
-          504,
-          527,
-          561,
-          568,
-          572,
-          575,
-          642,
-          50
-        ],
-        "traits": [
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 3
-          },
-          {
-            "code": 22,
-            "dataId": 8,
-            "value": 0.05
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.7
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 0.7
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 14,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.85
-          },
-          {
-            "code": 23,
-            "dataId": 2,
-            "value": 1.55
-          },
-          {
-            "code": 23,
-            "dataId": 3,
-            "value": 1.55
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.6
-          },
-          {
-            "code": 23,
-            "dataId": 4,
-            "value": 0.85
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.85
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.85
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 2.75
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.65
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.15
-          },
-          {
-            "code": 22,
-            "dataId": 8,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 23,
-            "dataId": 2,
-            "value": 1.5
-          },
-          {
-            "code": 23,
-            "dataId": 3,
-            "value": 1.5
-          },
-          {
-            "code": 14,
-            "dataId": 4,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 6,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 1.8
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.8
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2.5
-          },
-          {
-            "code": 43,
-            "dataId": 50,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.25
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.65
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.75
-          },
-          {
-            "code": 22,
-            "dataId": 4,
-            "value": 0.05
-          },
-          {
-            "code": 14,
-            "dataId": 4,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2.2
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 2.2
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.1
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.12
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.7
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.33
-          },
-          {
-            "code": 22,
-            "dataId": 8,
-            "value": 0.12
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.2
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 10,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.3
-          },
-          {
-            "code": 11,
-            "dataId": 8,
-            "value": 0.5
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": [
-            1
-          ]
-        }
-      },
-      {
-        "id": 314,
-        "name": "*Chimoto",
-        "maxHp": 11125,
-        "hp": 11125,
-        "maxMp": 2498,
-        "mp": 2498,
-        "atk": 237,
-        "def": 179,
-        "matk": 1161,
-        "mdef": 356,
-        "agi": 611,
-        "luk": 366,
-        "battlerName": "chimoto",
-        "classNotes": "<BGEScaleX:120>\n<BGEScaleY:120>\n<hitSound:/womanandinstruments/female-hurt-2-94301>\n\n<Learn Skill: 33, 55, 176, 332, 479, 561, 600, 1108, 1113, 1112>\n",
-        "skills": [
-          49,
-          50
-        ],
-        "traits": [
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 0.76
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.72
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 1.28
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2.75
-          },
-          {
-            "code": 32,
-            "dataId": 5,
-            "value": 1.7
-          },
-          {
-            "code": 31,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 4,
-            "value": 0.92
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 14,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.52
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.24
-          },
-          {
-            "code": 14,
-            "dataId": 9,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 4,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.65
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.1
-          },
-          {
-            "code": 11,
-            "dataId": 8,
-            "value": 0.65
-          },
-          {
-            "code": 14,
-            "dataId": 5,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.5
-          },
-          {
-            "code": 43,
-            "dataId": 49,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 7,
-            "value": 0.1
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.4
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 1.4
-          },
-          {
-            "code": 43,
-            "dataId": 50,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.55
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.7
-          },
-          {
-            "code": 22,
-            "dataId": 9,
-            "value": 0.15
-          },
-          {
-            "code": 23,
-            "dataId": 5,
-            "value": 1.15
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 0.82
-          },
-          {
-            "code": 14,
-            "dataId": 10,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 7,
-            "value": 0.1
-          },
-          {
-            "code": 11,
-            "dataId": 3,
-            "value": 0.9
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 19,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.3
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [
-            5
-          ],
-          "attackElement": [
-            8
-          ]
-        }
-      },
-      {
-        "id": 305,
-        "name": "Vermillion +1",
-        "maxHp": 285167,
-        "hp": 285167,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 1772,
-        "def": 21372,
-        "matk": 2430,
-        "mdef": 25868,
-        "agi": 10530,
-        "luk": 5697,
-        "battlerName": "emerald dragon2",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 418, 573, 416, 434, 460, 533, 544, 580, 588, 659, 1102, 1108, 699>\n<hitSound:/new2/big-metal-knock-001-11345>\n\n",
-        "skills": [
-          416,
-          418,
-          460,
-          533,
-          544,
-          573,
-          580,
-          588,
-          659,
-          699,
-          1102,
-          1108,
-          18
-        ],
-        "traits": [
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 0.86
-          },
-          {
-            "code": 11,
-            "dataId": 2,
-            "value": 0.25
-          },
-          {
-            "code": 14,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 0.8
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.45
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.45
-          },
-          {
-            "code": 14,
-            "dataId": 6,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 5,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.62
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.1
-          },
-          {
-            "code": 22,
-            "dataId": 9,
-            "value": 0.05
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.82
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.26
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 2.66
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.25
-          },
-          {
-            "code": 23,
-            "dataId": 4,
-            "value": 0.85
-          },
-          {
-            "code": 23,
-            "dataId": 3,
-            "value": 1.8
-          },
-          {
-            "code": 22,
-            "dataId": 7,
-            "value": 0.15
-          },
-          {
-            "code": 14,
-            "dataId": 4,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 9,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 3
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 3
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 2
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 43,
-            "dataId": 18,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.55
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.7
-          },
-          {
-            "code": 22,
-            "dataId": 9,
-            "value": 0.15
-          },
-          {
-            "code": 23,
-            "dataId": 5,
-            "value": 1.15
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 0.82
-          },
-          {
-            "code": 14,
-            "dataId": 10,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.15
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.15
-          },
-          {
-            "code": 14,
-            "dataId": 13,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 12,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.85
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": 0.15
-          },
-          {
-            "code": 11,
-            "dataId": 4,
-            "value": 0.6
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1.2
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 17,
-            "value": 0
-          },
-          {
-            "code": 23,
-            "dataId": 1,
-            "value": 1.35
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 11,
-            "dataId": 2,
-            "value": 0.6
-          },
-          {
-            "code": 11,
-            "dataId": 5,
-            "value": 1.3
-          },
-          {
-            "code": 11,
-            "dataId": 1,
-            "value": 0.9
-          },
-          {
-            "code": 23,
-            "dataId": 6,
-            "value": 0.9
-          },
-          {
-            "code": 23,
-            "dataId": 7,
-            "value": 0.9
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "actionTimes": [],
-          "autoBattle": true,
-          "attackTimes": [],
-          "attackSkill": 1,
-          "attackState": [],
-          "attackElement": []
         }
       }
     ]
