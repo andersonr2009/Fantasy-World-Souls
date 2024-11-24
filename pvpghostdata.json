@@ -14,10 +14,10 @@
         "def": 266672,
         "matk": 81313,
         "mdef": 18948,
-        "agi": 4280648,
+        "agi": 3722303,
         "luk": 397905,
         "hue": 0,
-        "battlerName": "eigengrau",
+        "battlerName": "Reeve",
         "classNotes": "<hitSound:/Monsters/male_hurt7-48124>\n<Learn Skill: 1135, 1136, 1307>\n<BGEScaleX:200>\n<BGEScaleY:200>",
         "skills": [
           4,
@@ -70,7 +70,7 @@
           },
           {
             "code": 35,
-            "dataId": 1049,
+            "dataId": 1048,
             "value": 1
           },
           {
@@ -105,12 +105,12 @@
           },
           {
             "code": 31,
-            "dataId": 9,
+            "dataId": 8,
             "value": 1
           },
           {
             "code": 32,
-            "dataId": 6,
+            "dataId": 9,
             "value": 0.5
           },
           {
@@ -422,11 +422,6 @@
             "code": 21,
             "dataId": 6,
             "value": 3.11
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.15
           },
           {
             "code": 62,
