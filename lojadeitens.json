@@ -114,5 +114,14 @@
     "description": "Restores MP",
     "iconIndex": 179,
     "submittedAt": "2024-11-25T00:35:20.726Z"
+  },
+  {
+    "playerId": 688092,
+    "actorName": "Decinstrong",
+    "itemId": 4,
+    "name": "Black Mage",
+    "description": "test",
+    "iconIndex": 0,
+    "submittedAt": "2024-11-25T00:35:22.972Z"
   }
 ]
