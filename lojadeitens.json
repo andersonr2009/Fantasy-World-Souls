@@ -312,5 +312,14 @@
     "description": "Restores MP",
     "iconIndex": 179,
     "submittedAt": "2024-11-25T01:19:43.795Z"
+  },
+  {
+    "playerId": 60609,
+    "actorName": "Decinstrong",
+    "itemId": 1,
+    "name": "Potion",
+    "description": "Below are spaces for when you would like to display\nitems above the recovery items.",
+    "iconIndex": 176,
+    "submittedAt": "2024-11-25T01:20:09.546Z"
   }
 ]
