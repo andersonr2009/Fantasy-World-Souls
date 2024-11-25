@@ -199,10 +199,10 @@
   {
     "playerId": 49587,
     "actorName": "Decinstrong",
-    "itemId": 1,
-    "name": "Potion",
-    "description": "Below are spaces for when you would like to display\nitems above the recovery items.",
-    "iconIndex": 176,
-    "submittedAt": "2024-11-25T01:01:00.588Z"
+    "itemId": 6,
+    "name": "Spell Master",
+    "description": "test",
+    "iconIndex": 0,
+    "submittedAt": "2024-11-25T01:01:05.956Z"
   }
 ]
