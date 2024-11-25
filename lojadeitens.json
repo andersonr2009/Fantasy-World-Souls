@@ -105,5 +105,14 @@
     "description": "Below are spaces for when you would like to display\nitems above the recovery items.",
     "iconIndex": 176,
     "submittedAt": "2024-11-25T00:35:18.438Z"
+  },
+  {
+    "playerId": 688092,
+    "actorName": "Decinstrong",
+    "itemId": 2,
+    "name": "Ether",
+    "description": "Restores MP",
+    "iconIndex": 179,
+    "submittedAt": "2024-11-25T00:35:20.726Z"
   }
 ]
