@@ -63,15 +63,15 @@
       "battler": "Stockman"
     },
     {
+      "name": "Ockraven +25",
+      "score": 36002,
+      "customText": "Remember to thank Anderson!",
+      "battler": "demilichzorake"
+    },
+    {
       "name": "KaynV +25",
       "score": 35875,
       "battler": "time element core/lancer"
-    },
-    {
-      "name": "Ockraven +25",
-      "score": 35698,
-      "customText": "Remember to thank Anderson!",
-      "battler": "demilichzorake"
     },
     {
       "name": "Ouranos +25",
