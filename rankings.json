@@ -101,15 +101,15 @@
       "battler": "cute slime"
     },
     {
+      "name": "SlayerMage +25",
+      "score": 24466,
+      "battler": "Grune"
+    },
+    {
       "name": "ronelly +23",
       "score": 23633,
       "customText": "The  Best  Master  Sorcerer",
       "battler": "Sterling"
-    },
-    {
-      "name": "Diabolic One",
-      "score": 23554,
-      "battler": "wingedimp"
     }
   ]
 }
