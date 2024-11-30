@@ -1,5 +1,1116 @@
 [
   {
+    "playerName": "Luiti +8",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Luiti +8",
+        "maxHp": 87497,
+        "hp": 87497,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 1761,
+        "def": 1392,
+        "matk": 13373,
+        "mdef": 2011,
+        "agi": 5828,
+        "luk": 4939,
+        "hue": 0,
+        "battlerName": "Stormcaster Cloud",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 136, 571, 632, 653>\n<hitSound:/Monsters/male_hurt7-48124>\n",
+        "skills": [
+          18,
+          69,
+          75,
+          99,
+          103,
+          107,
+          115,
+          123,
+          136,
+          141,
+          153,
+          311,
+          632,
+          100
+        ],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.2
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 2.35
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.8
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 0.7
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 0.8
+          },
+          {
+            "code": 23,
+            "dataId": 9,
+            "value": 1.2
+          },
+          {
+            "code": 23,
+            "dataId": 5,
+            "value": 1.2
+          },
+          {
+            "code": 23,
+            "dataId": 4,
+            "value": 0.8
+          },
+          {
+            "code": 23,
+            "dataId": 5,
+            "value": 1.3
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.6
+          },
+          {
+            "code": 43,
+            "dataId": 100,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 8,
+            "value": 0.07
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.22
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.3
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.3
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 383,
+        "name": "Groomer +1",
+        "maxHp": 27453,
+        "hp": 27453,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 2361,
+        "def": 333,
+        "matk": 458,
+        "mdef": 574,
+        "agi": 1351,
+        "luk": 1141,
+        "hue": 0,
+        "battlerName": "sahua",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 35, 128, 213, 362, 81, 420, 80, 419, 435, 462, 554, 1341>\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>\n\n",
+        "skills": [
+          80,
+          81,
+          554,
+          1341,
+          83
+        ],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 2.35
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.3
+          },
+          {
+            "code": 54,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 0.7
+          },
+          {
+            "code": 14,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 14,
+            "dataId": 8,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.25
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.45
+          },
+          {
+            "code": 22,
+            "dataId": 9,
+            "value": 0.25
+          },
+          {
+            "code": 43,
+            "dataId": 83,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 7,
+            "value": 0.05
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1.2
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 12,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 25,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.3
+          },
+          {
+            "code": 11,
+            "dataId": 5,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 1.5
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1.2
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 12,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 25,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.3
+          },
+          {
+            "code": 11,
+            "dataId": 5,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 1.5
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 305,
+        "name": "Vermillion +4",
+        "maxHp": 65815,
+        "hp": 65815,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 1206,
+        "def": 1329,
+        "matk": 1227,
+        "mdef": 1204,
+        "agi": 1834,
+        "luk": 2161,
+        "hue": 30,
+        "battlerName": "emerald dragon2",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 418, 573, 416, 434, 460, 533, 544, 580, 588, 659, 1102, 1108, 699>\n<hitSound:/new2/big-metal-knock-001-11345>\n\n",
+        "skills": [
+          416,
+          418,
+          460,
+          533,
+          588,
+          699,
+          1102,
+          1108,
+          83
+        ],
+        "traits": [
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 0.8
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 0.5
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 5,
+            "value": 1.2
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.2
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.2
+          },
+          {
+            "code": 43,
+            "dataId": 83,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.4
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.15
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1.2
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 17,
+            "value": 0
+          },
+          {
+            "code": 23,
+            "dataId": 1,
+            "value": 1.35
+          },
+          {
+            "code": 62,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 0.6
+          },
+          {
+            "code": 11,
+            "dataId": 5,
+            "value": 1.3
+          },
+          {
+            "code": 11,
+            "dataId": 1,
+            "value": 0.9
+          },
+          {
+            "code": 23,
+            "dataId": 6,
+            "value": 0.9
+          },
+          {
+            "code": 23,
+            "dataId": 7,
+            "value": 0.9
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1.2
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 17,
+            "value": 0
+          },
+          {
+            "code": 23,
+            "dataId": 1,
+            "value": 1.35
+          },
+          {
+            "code": 62,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 11,
+            "dataId": 2,
+            "value": 0.6
+          },
+          {
+            "code": 11,
+            "dataId": 5,
+            "value": 1.3
+          },
+          {
+            "code": 11,
+            "dataId": 1,
+            "value": 0.9
+          },
+          {
+            "code": 23,
+            "dataId": 6,
+            "value": 0.9
+          },
+          {
+            "code": 23,
+            "dataId": 7,
+            "value": 0.9
+          }
+        ],
+        "specialFlags": {
+          "substitute": true,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 411,
+        "name": "Ghost Dullahan",
+        "maxHp": 9037,
+        "hp": 9037,
+        "maxMp": 875,
+        "mp": 875,
+        "atk": 777,
+        "def": 331,
+        "matk": 133,
+        "mdef": 166,
+        "agi": 200,
+        "luk": 343,
+        "hue": 0,
+        "battlerName": "dullahanmaster",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 93, 200, 232, 358, 460, 469, 505, 562, 577, 579, 1183, 1367>\n\n<hitSound:/new2/golpe-de-olla-79857>\n",
+        "skills": [],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 0.8
+          },
+          {
+            "code": 23,
+            "dataId": 5,
+            "value": 1.2
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 14,
+            "dataId": 5,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.9
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.9
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 16,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.3
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 16,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.3
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "playerName": "Chronos +1",
     "variable350": 0,
     "members": [
@@ -33901,1761 +35012,6 @@
             "code": 21,
             "dataId": 4,
             "value": 1.25
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "playerName": "felipebg +25",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "felipebg +25",
-        "maxHp": 589635,
-        "hp": 589635,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 315212,
-        "def": 15662,
-        "matk": 15888857,
-        "mdef": 220495,
-        "agi": 1380671,
-        "luk": 478135,
-        "hue": 90,
-        "battlerName": "Stormcaster Cloud",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 136, 571, 632, 653>\n<hitSound:/Monsters/male_hurt7-48124>\n",
-        "skills": [
-          310,
-          312,
-          405,
-          473,
-          503,
-          504,
-          536,
-          653,
-          52
-        ],
-        "traits": [
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 3.55
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 4.9
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.75
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2.3
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.7
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.45
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.04
-          },
-          {
-            "code": 22,
-            "dataId": 5,
-            "value": 0.1
-          },
-          {
-            "code": 32,
-            "dataId": 4,
-            "value": 0.5
-          },
-          {
-            "code": 31,
-            "dataId": 9,
-            "value": 1
-          },
-          {
-            "code": 35,
-            "dataId": 1033,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 14,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 3.85
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 0.6
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 4.45
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2
-          },
-          {
-            "code": 22,
-            "dataId": 7,
-            "value": 0.06
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": -0.2
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": -0.2
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 3.5
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 3.5
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2.5
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.5
-          },
-          {
-            "code": 22,
-            "dataId": 8,
-            "value": 0.05
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.5
-          },
-          {
-            "code": 22,
-            "dataId": 4,
-            "value": -0.15
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 3
-          },
-          {
-            "code": 43,
-            "dataId": 52,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.12
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.7
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.33
-          },
-          {
-            "code": 22,
-            "dataId": 8,
-            "value": 0.12
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.2
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 10,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.3
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 10,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.3
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "id": 284,
-        "name": "*Jirai King +12",
-        "maxHp": 6000000,
-        "hp": 6000000,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 51357,
-        "def": 1343155,
-        "matk": 42377,
-        "mdef": 1140061,
-        "agi": 92954,
-        "luk": 119473,
-        "hue": 0,
-        "battlerName": "barrel2",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 475, 479, 513, 554, 555, 1101, 562, 575, 579, 583, 660, 675, 681, 682>\n<hitSound:/new2/big-metal-knock-001-11345>\n\n",
-        "skills": [
-          562,
-          579,
-          681,
-          682,
-          845,
-          454
-        ],
-        "traits": [
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 4.75
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.75
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 3.9
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.3
-          },
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 22,
-            "dataId": 9,
-            "value": 0.1
-          },
-          {
-            "code": 22,
-            "dataId": 6,
-            "value": 0.1
-          },
-          {
-            "code": 43,
-            "dataId": 845,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 0.85
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 4.53
-          },
-          {
-            "code": 14,
-            "dataId": 11,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 12,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 4,
-            "value": -0.15
-          },
-          {
-            "code": 22,
-            "dataId": 5,
-            "value": -0.1
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.88
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.88
-          },
-          {
-            "code": 22,
-            "dataId": 7,
-            "value": 0.02
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 0.75
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": -0.05
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 4.5
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": -0.2
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": -0.2
-          },
-          {
-            "code": 11,
-            "dataId": 2,
-            "value": 0.65
-          },
-          {
-            "code": 11,
-            "dataId": 4,
-            "value": 0.65
-          },
-          {
-            "code": 11,
-            "dataId": 3,
-            "value": 0.65
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.5
-          },
-          {
-            "code": 14,
-            "dataId": 10,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 13,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 8,
-            "value": 0.05
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 2.6
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.6
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2.6
-          },
-          {
-            "code": 22,
-            "dataId": 5,
-            "value": 0.05
-          },
-          {
-            "code": 11,
-            "dataId": 9,
-            "value": 0.5
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 4
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 4
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 2.5
-          },
-          {
-            "code": 62,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 43,
-            "dataId": 454,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 1,
-            "value": 1.18
-          },
-          {
-            "code": 22,
-            "dataId": 7,
-            "value": 0.12
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.7
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.48
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.3
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.3
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.8
-          },
-          {
-            "code": 11,
-            "dataId": 4,
-            "value": 0.65
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.6
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.6
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1.2
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 17,
-            "value": 0
-          },
-          {
-            "code": 23,
-            "dataId": 1,
-            "value": 1.35
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 6,
-            "value": 0.9
-          },
-          {
-            "code": 23,
-            "dataId": 7,
-            "value": 0.9
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1.2
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 17,
-            "value": 0
-          },
-          {
-            "code": 23,
-            "dataId": 1,
-            "value": 1.35
-          },
-          {
-            "code": 62,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 6,
-            "value": 0.9
-          },
-          {
-            "code": 23,
-            "dataId": 7,
-            "value": 0.9
-          }
-        ],
-        "specialFlags": {
-          "substitute": true,
-          "autoGuard": true,
-          "autoBattle": false,
-          "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "id": 352,
-        "name": "Obsidian Leech +5",
-        "maxHp": 419296,
-        "hp": 419296,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 61306,
-        "def": 11840,
-        "matk": 100146,
-        "mdef": 16516,
-        "agi": 2103769,
-        "luk": 1528469,
-        "hue": 0,
-        "battlerName": "parasite-black_2",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 6, 14, 27, 33, 76, 407, 444, 20, 90, 429, 553, 1101, 1305>\n\n<hitSound:/Monsters/mixkit-juicy-insect-fast-squish-324>:/Monsters/mixkit-juicy-insect-fast-squish-324>\n",
-        "skills": [
-          553,
-          1305,
-          1143
-        ],
-        "traits": [
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 3.55
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 4.9
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.75
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2.3
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.7
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.45
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.04
-          },
-          {
-            "code": 22,
-            "dataId": 5,
-            "value": 0.1
-          },
-          {
-            "code": 32,
-            "dataId": 4,
-            "value": 0.5
-          },
-          {
-            "code": 31,
-            "dataId": 9,
-            "value": 1
-          },
-          {
-            "code": 35,
-            "dataId": 1033,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.75
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.75
-          },
-          {
-            "code": 14,
-            "dataId": 4,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 5,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 6,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 9,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 10,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 11,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 12,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 13,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.85
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.3
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": 0.15
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.15
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.3
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.85
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2.85
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 3.2
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.2
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2.7
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 2.7
-          },
-          {
-            "code": 43,
-            "dataId": 1143,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.08
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.44
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.2
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.12
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.7
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.33
-          },
-          {
-            "code": 22,
-            "dataId": 8,
-            "value": 0.12
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.2
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 16,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.3
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 16,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.3
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "id": 337,
-        "name": "*Metraela +25",
-        "maxHp": 529764,
-        "hp": 529764,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 28818,
-        "def": 17786,
-        "matk": 18620019,
-        "mdef": 25742,
-        "agi": 199275,
-        "luk": 106751,
-        "hue": 330,
-        "battlerName": "metraela",
-        "classNotes": "<hitSound:/womanandinstruments/female-hurt-2-94301>\n<Learn Skill: 344, 368, 88, 427, 445, 521, 616, 1117, 1126, 726>\n<BGEScaleX:200>\n<BGEScaleY:200>\n<Battle Commands>\n Attack\n Skill: 281\n Skills\n Guard\n Item\n Party\n Escape\n</Battle Commands>",
-        "skills": [
-          726,
-          1126,
-          1143
-        ],
-        "traits": [
-          {
-            "code": 31,
-            "dataId": 8,
-            "value": 0
-          },
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 7.52
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.5
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 14,
-            "dataId": 6,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.1
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 4
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 0.5
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 0.75
-          },
-          {
-            "code": 14,
-            "dataId": 6,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.85
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.35
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.3
-          },
-          {
-            "code": 22,
-            "dataId": 3,
-            "value": 0.15
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.15
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.3
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 4.25
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 3
-          },
-          {
-            "code": 43,
-            "dataId": 1143,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 98,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 4,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 11,
-            "value": 1
-          },
-          {
-            "code": 14,
-            "dataId": 52,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 2
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.3
-          },
-          {
-            "code": 11,
-            "dataId": 3,
-            "value": 0.5
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 2.8
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.95
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.04
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 12,
-            "value": 0
-          },
-          {
-            "code": 11,
-            "dataId": 8,
-            "value": 0.4
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.3
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.95
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.04
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 12,
-            "value": 0
-          },
-          {
-            "code": 11,
-            "dataId": 8,
-            "value": 0.4
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.3
           }
         ],
         "specialFlags": {
