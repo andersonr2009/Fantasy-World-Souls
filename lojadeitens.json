@@ -188,5 +188,10 @@
     "playerCode": 438682666020013,
     "itemId": 1,
     "price": 2100
+  },
+  {
+    "playerCode": 438682666020013,
+    "itemId": 2,
+    "price": 530000
   }
 ]
