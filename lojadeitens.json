@@ -1,9 +1,10 @@
 [
   {
     "playerCode": 764171725699631,
-    "itemId": 11,
+    "itemId": 0,
     "price": 500,
-    "actorName": "Developer +25"
+    "actorName": "Developer +25",
+    "vendimeuitem": true
   },
   {
     "playerCode": 40319871636117,
