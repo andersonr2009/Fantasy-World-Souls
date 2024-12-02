@@ -14,9 +14,10 @@
   },
   {
     "playerCode": 976181047980255,
-    "itemId": 7,
+    "itemId": 0,
     "price": 33,
-    "actorName": "Decinstrong"
+    "actorName": "Decinstrong",
+    "vendimeuitem": true
   },
   {
     "playerCode": 996717976355360,
