@@ -1,9 +1,10 @@
 [
   {
     "playerCode": 40319871636117,
-    "itemId": 77,
+    "itemId": 0,
     "price": 40000,
-    "actorName": "Ockraven +25"
+    "actorName": "Ockraven +25",
+    "vendimeuitem": true
   },
   {
     "playerCode": 996717976355360,
