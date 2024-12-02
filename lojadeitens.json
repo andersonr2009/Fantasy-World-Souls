@@ -1,9 +1,10 @@
 [
   {
     "playerCode": 6891650599580,
-    "itemId": 57,
+    "itemId": 0,
     "price": 2700,
-    "actorName": "Arekisu +14"
+    "actorName": "Arekisu +14",
+    "vendimeuitem": true
   },
   {
     "playerCode": 40319871636117,
