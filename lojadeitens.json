@@ -1,5 +1,11 @@
 [
   {
+    "playerCode": 474629694559686,
+    "itemId": 111,
+    "price": 500,
+    "actorName": "riogigas +1"
+  },
+  {
     "playerCode": 764171725699631,
     "itemId": 0,
     "price": 33,
@@ -326,11 +332,6 @@
   },
   {
     "playerCode": 748704627985023,
-    "itemId": 0,
-    "vendimeuitem": false
-  },
-  {
-    "playerCode": 474629694559686,
     "itemId": 0,
     "vendimeuitem": false
   }
