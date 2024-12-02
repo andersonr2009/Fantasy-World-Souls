@@ -1,5 +1,11 @@
 [
   {
+    "playerCode": 816503320449493,
+    "itemId": 130,
+    "price": 50001,
+    "actorName": "dubz +25"
+  },
+  {
     "playerCode": 40319871636117,
     "itemId": 130,
     "price": 50123,
@@ -22,13 +28,6 @@
     "itemId": 0,
     "price": 22000,
     "actorName": "Decinstrong"
-  },
-  {
-    "playerCode": 816503320449493,
-    "itemId": 0,
-    "price": 50001,
-    "actorName": "dubz +25",
-    "vendimeuitem": false
   },
   {
     "playerCode": 6891650599580,
