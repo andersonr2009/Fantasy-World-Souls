@@ -1,16 +1,15 @@
 [
   {
+    "playerCode": 764171725699631,
+    "itemId": 2,
+    "price": 22000,
+    "actorName": "Developer +25"
+  },
+  {
     "playerCode": 254295761301549,
     "itemId": 0,
     "price": 22000,
     "actorName": "Decinstrong"
-  },
-  {
-    "playerCode": 764171725699631,
-    "itemId": 0,
-    "price": 24000,
-    "actorName": "Developer +25",
-    "vendimeuitem": false
   },
   {
     "playerCode": 298930564058417,
