@@ -1,9 +1,10 @@
 [
   {
     "playerCode": 816503320449493,
-    "itemId": 130,
+    "itemId": 0,
     "price": 50001,
-    "actorName": "dubz +25"
+    "actorName": "dubz +25",
+    "vendimeuitem": true
   },
   {
     "playerCode": 40319871636117,
