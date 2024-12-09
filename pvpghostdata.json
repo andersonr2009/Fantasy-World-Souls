@@ -383,192 +383,6 @@
         }
       },
       {
-        "id": 113,
-        "name": "Dark Wizard",
-        "maxHp": 271,
-        "hp": 271,
-        "maxMp": 49,
-        "mp": 49,
-        "atk": 12,
-        "def": 12,
-        "matk": 13,
-        "mdef": 12,
-        "agi": 20,
-        "luk": 16,
-        "hue": 0,
-        "battlerName": "dark wizard",
-        "classNotes": "<BGEScaleX:160>\n<BGEScaleY:160>\n<Learn Skill: 29, 60, 72, 75, 98, 115, 118, 242, 148, 92>\n<hitSound:/Monsters/male_hurt7-48124>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 10,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.2
-          },
-          {
-            "code": 11,
-            "dataId": 9,
-            "value": 0.5
-          },
-          {
-            "code": 11,
-            "dataId": 8,
-            "value": 1.5
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 10,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.2
-          },
-          {
-            "code": 11,
-            "dataId": 9,
-            "value": 0.5
-          },
-          {
-            "code": 11,
-            "dataId": 8,
-            "value": 1.5
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
         "id": 195,
         "name": "Angellus",
         "maxHp": 4537,
@@ -956,6 +770,192 @@
             "code": 34,
             "dataId": 0,
             "value": 1
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 113,
+        "name": "Dark Wizard",
+        "maxHp": 271,
+        "hp": 271,
+        "maxMp": 49,
+        "mp": 49,
+        "atk": 12,
+        "def": 12,
+        "matk": 13,
+        "mdef": 12,
+        "agi": 20,
+        "luk": 16,
+        "hue": 0,
+        "battlerName": "dark wizard",
+        "classNotes": "<BGEScaleX:160>\n<BGEScaleY:160>\n<Learn Skill: 29, 60, 72, 75, 98, 115, 118, 242, 148, 92>\n<hitSound:/Monsters/male_hurt7-48124>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.2
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 1.5
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.2
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 8,
+            "value": 1.5
           }
         ],
         "specialFlags": {
