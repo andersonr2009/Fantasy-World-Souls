@@ -403,6 +403,378 @@
         }
       },
       {
+        "id": 64,
+        "name": "Babylon",
+        "maxHp": 92411,
+        "hp": 92411,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 1457,
+        "def": 1449,
+        "matk": 1465,
+        "mdef": 1455,
+        "agi": 4217,
+        "luk": 4172,
+        "hue": 0,
+        "battlerName": "babylon",
+        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 195, 239, 243, 336, 341, 60, 348, 356, 411, 433, 446, 312, 504, 521, 445, 527, 448, 616>\n<hitSound:/new2/big-metal-knock-001-11345>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 7,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 2
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.15
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 4,
+            "value": 0.1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 11,
+            "dataId": 7,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 4,
+            "value": 0.5
+          },
+          {
+            "code": 11,
+            "dataId": 9,
+            "value": 2
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.15
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": 136,
+        "name": "Arcana",
+        "maxHp": 84322,
+        "hp": 84322,
+        "maxMp": 3000,
+        "mp": 3000,
+        "atk": 1387,
+        "def": 1398,
+        "matk": 1680,
+        "mdef": 1391,
+        "agi": 4023,
+        "luk": 2770,
+        "hue": 0,
+        "battlerName": "arcana",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 32, 73, 98, 129, 136, 238, 321, 312, 307, 404, 308, 405, 429, 90, 424, 85>\n\n<hitSound:/womanandinstruments/female-hurt-2-94301>",
+        "skills": [],
+        "traits": [
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.2
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 6,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 10,
+            "value": 0
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.2
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
         "id": 196,
         "name": "Kraken +2",
         "maxHp": 211415,
@@ -694,378 +1066,6 @@
         "specialFlags": {
           "substitute": false,
           "autoGuard": true,
-          "autoBattle": false,
-          "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "id": 136,
-        "name": "Arcana",
-        "maxHp": 84322,
-        "hp": 84322,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 1387,
-        "def": 1398,
-        "matk": 1680,
-        "mdef": 1391,
-        "agi": 4023,
-        "luk": 2770,
-        "hue": 0,
-        "battlerName": "arcana",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 32, 73, 98, 129, 136, 238, 321, 312, 307, 404, 308, 405, 429, 90, 424, 85>\n\n<hitSound:/womanandinstruments/female-hurt-2-94301>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 10,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.2
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 10,
-            "value": 0
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.2
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
-          "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      },
-      {
-        "id": 64,
-        "name": "Babylon",
-        "maxHp": 92411,
-        "hp": 92411,
-        "maxMp": 3000,
-        "mp": 3000,
-        "atk": 1457,
-        "def": 1449,
-        "matk": 1465,
-        "mdef": 1455,
-        "agi": 4217,
-        "luk": 4172,
-        "hue": 0,
-        "battlerName": "babylon",
-        "classNotes": "<BGEScaleX:200>\n<BGEScaleY:200>\n<Learn Skill: 195, 239, 243, 336, 341, 60, 348, 356, 411, 433, 446, 312, 504, 521, 445, 527, 448, 616>\n<hitSound:/new2/big-metal-knock-001-11345>",
-        "skills": [],
-        "traits": [
-          {
-            "code": 22,
-            "dataId": 4,
-            "value": 0.1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 11,
-            "dataId": 7,
-            "value": 0.5
-          },
-          {
-            "code": 11,
-            "dataId": 4,
-            "value": 0.5
-          },
-          {
-            "code": 11,
-            "dataId": 9,
-            "value": 2
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.15
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 4,
-            "value": 0.1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 6,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 11,
-            "dataId": 7,
-            "value": 0.5
-          },
-          {
-            "code": 11,
-            "dataId": 4,
-            "value": 0.5
-          },
-          {
-            "code": 11,
-            "dataId": 9,
-            "value": 2
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.15
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
           "autoBattle": false,
           "preserveTp": true,
           "actionTimes": [
