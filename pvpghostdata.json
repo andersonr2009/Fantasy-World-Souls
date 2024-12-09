@@ -10,12 +10,12 @@
         "hp": 72052,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 4739088,
+        "atk": 6668275,
         "def": 153284,
         "matk": 72950,
         "mdef": 14301,
         "agi": 445981,
-        "luk": 92111,
+        "luk": 64808,
         "hue": 150,
         "battlerName": "Sterling",
         "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 1386, 1385>\n<hitSound:/womanandinstruments/female-hurt-2-94301>",
@@ -27,49 +27,34 @@
         ],
         "traits": [
           {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
             "code": 22,
             "dataId": 2,
-            "value": 0.52
+            "value": 0.35
           },
           {
             "code": 34,
             "dataId": 0,
-            "value": 3
+            "value": 2
           },
           {
             "code": 22,
             "dataId": 3,
-            "value": -0.52
-          },
-          {
-            "code": 22,
-            "dataId": 6,
-            "value": 0.1
+            "value": -0.3
           },
           {
             "code": 21,
             "dataId": 2,
-            "value": 4.52
+            "value": 6.36
           },
           {
-            "code": 32,
-            "dataId": 5,
-            "value": 0.3
-          },
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 31,
-            "dataId": 8,
-            "value": 1
-          },
-          {
-            "code": 31,
-            "dataId": 9,
-            "value": 1
+            "code": 21,
+            "dataId": 7,
+            "value": 0.7
           },
           {
             "code": 21,
