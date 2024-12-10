@@ -41,6 +41,11 @@
       "customText": "Vaiterpremioooo"
     },
     {
+      "name": "LeoHades +25",
+      "score": 122515,
+      "battler": "newhealer"
+    },
+    {
       "name": "LeoHades +15",
       "score": 119337,
       "battler": "newhealer"
@@ -104,12 +109,6 @@
       "name": "SlayerMage +25",
       "score": 24466,
       "battler": "Grune"
-    },
-    {
-      "name": "ronelly +23",
-      "score": 23640,
-      "customText": "The  Best  Master  Sorcerer",
-      "battler": "Sterling"
     }
   ]
 }
