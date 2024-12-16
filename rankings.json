@@ -51,6 +51,11 @@
       "battler": "newhealer"
     },
     {
+      "name": "felipebg +25",
+      "score": 87230,
+      "battler": "Stormcaster Cloud"
+    },
+    {
       "name": "steez +25",
       "score": 50481,
       "customText": "wassup  playaz  :)",
@@ -104,11 +109,6 @@
       "name": "Sylvia +24",
       "score": 24515,
       "battler": "cute slime"
-    },
-    {
-      "name": "SlayerMage +25",
-      "score": 24466,
-      "battler": "Grune"
     }
   ]
 }
