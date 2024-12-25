@@ -84,15 +84,15 @@
       "battler": "time element core/lancer"
     },
     {
+      "name": "Dinivas +25",
+      "score": 33547,
+      "battler": "rarediel",
+      "customText": "Get The Sauce"
+    },
+    {
       "name": "Ouranos +25",
       "score": 33316,
       "battler": "ouranos"
-    },
-    {
-      "name": "Dinivas +25",
-      "score": 32985,
-      "battler": "rarediel",
-      "customText": "Get The Sauce"
     },
     {
       "name": "DanteAngelo +25",
