@@ -357,16 +357,16 @@
       {
         "id": 245,
         "name": "Void Monarch +10",
-        "maxHp": 269694,
-        "hp": 269694,
+        "maxHp": 179796,
+        "hp": 179796,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 13266,
-        "def": 8605,
-        "matk": 17648,
-        "mdef": 6954,
-        "agi": 12855,
-        "luk": 10354,
+        "atk": 8844,
+        "def": 5737,
+        "matk": 11765,
+        "mdef": 4636,
+        "agi": 8570,
+        "luk": 6902,
         "hue": 0,
         "battlerName": "spaceman",
         "classNotes": "<hitSound:/new2/golpe-de-olla-79857>\n<Learn Skill: 350, 368, 90, 429, 446, 452, 454, 467, 473, 479, 476, 521, 445, 527, 530, 555, 567, 644>\n<BGEScaleX:200>\n<BGEScaleY:200>",
@@ -404,51 +404,6 @@
             "code": 21,
             "dataId": 7,
             "value": 0.8
-          },
-          {
-            "code": 62,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 21,
-            "dataId": 0,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 1,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 2,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 3,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 4,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 5,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 6,
-            "value": 1.5
-          },
-          {
-            "code": 21,
-            "dataId": 7,
-            "value": 1.5
           },
           {
             "code": 22,
@@ -644,7 +599,7 @@
         "specialFlags": {
           "substitute": false,
           "autoGuard": false,
-          "autoBattle": true,
+          "autoBattle": false,
           "preserveTp": true,
           "actionTimes": [
             {
