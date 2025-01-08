@@ -357,16 +357,16 @@
       {
         "id": 245,
         "name": "Void Monarch +10",
-        "maxHp": 179796,
-        "hp": 179796,
+        "maxHp": 310148,
+        "hp": 310148,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 8844,
-        "def": 5737,
-        "matk": 11765,
-        "mdef": 4636,
-        "agi": 8570,
-        "luk": 6902,
+        "atk": 15256,
+        "def": 9896,
+        "matk": 20295,
+        "mdef": 7997,
+        "agi": 14838,
+        "luk": 11907,
         "hue": 0,
         "battlerName": "spaceman",
         "classNotes": "<hitSound:/new2/golpe-de-olla-79857>\n<Learn Skill: 350, 368, 90, 429, 446, 452, 454, 467, 473, 479, 476, 521, 445, 527, 530, 555, 567, 644>\n<BGEScaleX:200>\n<BGEScaleY:200>",
@@ -406,6 +406,51 @@
             "value": 0.8
           },
           {
+            "code": 62,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.5
+          },
+          {
             "code": 22,
             "dataId": 1,
             "value": 0.3
@@ -429,6 +474,51 @@
             "code": 22,
             "dataId": 8,
             "value": 0.07
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.15
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.9
           },
           {
             "code": 62,
@@ -599,7 +689,7 @@
         "specialFlags": {
           "substitute": false,
           "autoGuard": false,
-          "autoBattle": false,
+          "autoBattle": true,
           "preserveTp": true,
           "actionTimes": [
             {
@@ -954,16 +1044,16 @@
       {
         "id": 170,
         "name": "Master Rat +7",
-        "maxHp": 220632,
-        "hp": 220632,
+        "maxHp": 253726,
+        "hp": 253726,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 29613,
-        "def": 6682,
-        "matk": 23351,
-        "mdef": 5359,
-        "agi": 9750,
-        "luk": 7752,
+        "atk": 34055,
+        "def": 7685,
+        "matk": 26854,
+        "mdef": 6163,
+        "agi": 11268,
+        "luk": 8915,
         "hue": 0,
         "battlerName": "master rat",
         "classNotes": "<Learn Skill: 21, 20, 14, 13, 325, 324, 362, 80, 419, 90, 429, 439, 454, 506, 513, 533>\n<BGEScaleX:150>\n<BGEScaleY:150>\n<hitSound:/Monsters/mixkit-tropical-bird-squeak-27>\n\n",
@@ -1076,6 +1166,51 @@
             "code": 22,
             "dataId": 2,
             "value": 0.4
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 5,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.15
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.15
+          },
+          {
+            "code": 11,
+            "dataId": 3,
+            "value": 0.9
           },
           {
             "code": 62,
