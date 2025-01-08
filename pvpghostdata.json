@@ -6,16 +6,16 @@
       {
         "id": 1,
         "name": "Maiyu +10",
-        "maxHp": 247527,
-        "hp": 247527,
+        "maxHp": 371291,
+        "hp": 371291,
         "maxMp": 3000,
         "mp": 3000,
-        "atk": 32487,
-        "def": 9188,
-        "matk": 3861,
-        "mdef": 7337,
-        "agi": 11341,
-        "luk": 8782,
+        "atk": 48730,
+        "def": 13782,
+        "matk": 5791,
+        "mdef": 11006,
+        "agi": 17012,
+        "luk": 13173,
         "hue": 0,
         "battlerName": "Olive",
         "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 570, 582, 640, 661>\n<hitSound:/womanandinstruments/female-hurt-2-94301>",
@@ -92,9 +92,49 @@
             "value": 0.8
           },
           {
-            "code": 22,
+            "code": 62,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 21,
+            "dataId": 0,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 1,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 2,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 3,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 4,
+            "value": 1.5
+          },
+          {
+            "code": 21,
             "dataId": 5,
-            "value": 0.2
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 6,
+            "value": 1.5
+          },
+          {
+            "code": 21,
+            "dataId": 7,
+            "value": 1.5
           },
           {
             "code": 22,
@@ -305,7 +345,7 @@
         "specialFlags": {
           "substitute": false,
           "autoGuard": false,
-          "autoBattle": false,
+          "autoBattle": true,
           "preserveTp": true,
           "actionTimes": [
             {
