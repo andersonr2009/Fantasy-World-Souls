@@ -108,7 +108,8 @@
     {
       "name": "RizzIncarnate +13",
       "score": 5868,
-      "battler": "newhealer"
+      "battler": "newhealer",
+      "customText": "Shhhhiiii Im tryin"
     }
   ]
 }
