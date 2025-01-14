@@ -108,7 +108,8 @@
     {
       "name": "Maiyu +10",
       "score": 12625,
-      "battler": "Olive"
+      "battler": "Olive",
+      "customText": "Enjoy  the  game!"
     }
   ]
 }
