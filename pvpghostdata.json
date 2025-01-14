@@ -1,5 +1,207 @@
 [
   {
+    "playerName": "Venizdmeniz",
+    "variable350": 0,
+    "members": [
+      {
+        "id": 1,
+        "name": "Venizdmeniz",
+        "maxHp": 506,
+        "hp": 506,
+        "maxMp": 95,
+        "mp": 95,
+        "atk": 28,
+        "def": 17,
+        "matk": 17,
+        "mdef": 18,
+        "agi": 25,
+        "luk": 27,
+        "hue": 0,
+        "battlerName": "lunaneo",
+        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 13, 20, 129, 303, 400, 501, 14, 186>\n<hitSound:/womanandinstruments/female-hurt-2-94301>\n\n",
+        "skills": [],
+        "traits": [
+          {
+            "code": 31,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 15,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 6,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 63,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 62,
+            "dataId": 3,
+            "value": 1
+          },
+          {
+            "code": 23,
+            "dataId": 0,
+            "value": 1
+          },
+          {
+            "code": 22,
+            "dataId": 0,
+            "value": 0.9
+          },
+          {
+            "code": 22,
+            "dataId": 1,
+            "value": 0.05
+          },
+          {
+            "code": 22,
+            "dataId": 2,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 13,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 11,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          },
+          {
+            "code": 51,
+            "dataId": 10,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 2,
+            "value": 1
+          },
+          {
+            "code": 41,
+            "dataId": 1,
+            "value": 1
+          },
+          {
+            "code": 52,
+            "dataId": 1,
+            "value": 0
+          },
+          {
+            "code": 52,
+            "dataId": 15,
+            "value": 0
+          },
+          {
+            "code": 22,
+            "dataId": 6,
+            "value": 0.1
+          },
+          {
+            "code": 51,
+            "dataId": 2,
+            "value": 0
+          }
+        ],
+        "specialFlags": {
+          "substitute": false,
+          "autoGuard": false,
+          "autoBattle": false,
+          "preserveTp": true,
+          "actionTimes": [
+            {
+              "value": 1
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "playerName": "Maiyu +10",
     "variable350": 0,
     "members": [
@@ -1317,208 +1519,6 @@
           "substitute": false,
           "autoGuard": false,
           "autoBattle": true,
-          "preserveTp": true,
-          "actionTimes": [
-            {
-              "value": 1
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "playerName": "Venizdmeniz",
-    "variable350": 0,
-    "members": [
-      {
-        "id": 1,
-        "name": "Venizdmeniz",
-        "maxHp": 506,
-        "hp": 506,
-        "maxMp": 95,
-        "mp": 95,
-        "atk": 28,
-        "def": 17,
-        "matk": 17,
-        "mdef": 18,
-        "agi": 25,
-        "luk": 27,
-        "hue": 0,
-        "battlerName": "lunaneo",
-        "classNotes": "<BGEScaleX:100>\n<BGEScaleY:100>\n<Learn Skill: 13, 20, 129, 303, 400, 501, 14, 186>\n<hitSound:/womanandinstruments/female-hurt-2-94301>\n\n",
-        "skills": [],
-        "traits": [
-          {
-            "code": 31,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 2,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 10,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 15,
-            "value": 0
-          },
-          {
-            "code": 22,
-            "dataId": 6,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 2,
-            "value": 0
-          },
-          {
-            "code": 63,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 62,
-            "dataId": 3,
-            "value": 1
-          },
-          {
-            "code": 23,
-            "dataId": 0,
-            "value": 1
-          },
-          {
-            "code": 22,
-            "dataId": 0,
-            "value": 0.9
-          },
-          {
-            "code": 22,
-            "dataId": 1,
-            "value": 0.05
-          },
-          {
-            "code": 22,
-            "dataId": 2,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 13,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 11,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 2,
-            "value": 0
-          },
-          {
-            "code": 51,
-            "dataId": 10,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 2,
-            "value": 1
-          },
-          {
-            "code": 41,
-            "dataId": 1,
-            "value": 1
-          },
-          {
-            "code": 52,
-            "dataId": 1,
-            "value": 0
-          },
-          {
-            "code": 52,
-            "dataId": 15,
-            "value": 0
-          },
-          {
-            "code": 22,
-            "dataId": 6,
-            "value": 0.1
-          },
-          {
-            "code": 51,
-            "dataId": 2,
-            "value": 0
-          }
-        ],
-        "specialFlags": {
-          "substitute": false,
-          "autoGuard": false,
-          "autoBattle": false,
           "preserveTp": true,
           "actionTimes": [
             {
