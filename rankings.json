@@ -56,6 +56,11 @@
       "battler": "Stormcaster Cloud"
     },
     {
+      "name": "Sapphire +25",
+      "score": 74736,
+      "battler": "Dharkken_leader1"
+    },
+    {
       "name": "steez +25",
       "score": 50481,
       "customText": "wassup  playaz  :)",
@@ -104,12 +109,6 @@
       "name": "Rarediel +25",
       "score": 24667,
       "battler": "lina"
-    },
-    {
-      "name": "Maiyu +10",
-      "score": 12779,
-      "battler": "Olive",
-      "customText": "Enjoy  the  game!"
     }
   ]
 }
