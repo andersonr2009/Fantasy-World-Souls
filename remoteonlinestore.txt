@@ -4,3 +4,5 @@ armor,3,150
 item,8,5000
 item,9,5000
 armor,3,150
+armor,3,150
+armor,3,150
