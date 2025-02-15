@@ -2,4 +2,5 @@ item,7,50
 weapon,2,100
 armor,2,350
 armor,2,150
+armor,2,550
 
