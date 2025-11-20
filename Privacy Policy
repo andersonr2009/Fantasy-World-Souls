@@ -1,0 +1,9 @@
+- Overview: This game uses Patreon OAuth to verify your membership tier and unlock the Patreon build.
+- Data We Collect: Patreon user ID, display name, membership status, currently entitled tier IDs. We do not collect payment details. Access tokens are temporary and used only to query Patreon’s API.
+- Purpose of Use: Verify Patreon membership and grant access to this build; troubleshoot authentication issues; prevent abuse.
+- Data Storage: Tokens are kept only in memory during verification and are not stored. We do not persist personal data on our servers.
+- Sharing: We do not sell or share your data with third parties. Data is used solely to validate access.
+- Security: We use OAuth over HTTPS and follow best practices to minimize data collection and retention.
+- Your Rights: You can request information or deletion of any data we may hold. Contact us via the email below.
+- Contact: [your email/contact]
+- Changes: We may update this policy and will publish the latest version at this URL.
